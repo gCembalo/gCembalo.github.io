@@ -1,1 +1,4 @@
-theme: jekyll-theme-orderedlist
+title: "Gabriele Cembalo"
+description: "Notes and code"
+theme: jekyll-theme-minimal
+markdown: kramdown
