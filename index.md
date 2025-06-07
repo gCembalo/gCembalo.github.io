@@ -21,4 +21,4 @@ I'm a Theoretical Physics student and this is my personal page, here you can fin
 [Introduzione alla Teoria Quantistica dei Campi](/assets/pdf/IQFT.pdf) (last update: 05/06/2025) <br>
 
 ### Personal Project
-[Guida a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
+[Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
