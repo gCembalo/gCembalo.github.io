@@ -12,8 +12,7 @@ I'm a Theoretical Physics student and this is my personal page, here you can fin
 
 ### Lecture notes
 
-*Disclaimer*: These notes are a personal elaboration of the lectures from the course taught at University of Turin. The content provided does not represent official material from the professor or the university and may include subjective interpretations or errors. All rights to any slides, handouts, or other materials provided by the instructor remain with their respective authors and are not included in these notes. These notes are shared solely for educational and non-commercial purposes, intended to support the personal study of students. <br>
-This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes. [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/) <br>
+*Disclaimer*: These notes are a personal elaboration of the lectures from the course taught at University of Turin. The content provided does not represent official material from the professor or the university and may include subjective interpretations or errors. These notes are shared solely for educational and non-commercial purposes, intended to support the personal study of students. *This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes.*
 
 [Metodi Matematici per la Fisica 2](/assets/pdf/MMF2.pdf) (last update: 22/01/2024) <br>
 [Gemme di Teoria dei Gruppi](/assets/pdf/GG.pdf) (last update: 07/06/2025) <br>
