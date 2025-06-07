@@ -3,7 +3,7 @@ layout: default
 title: Gabriele Cembalo
 ---
 
-# Hi, I'm Gabriele Cembalo
+## Hi, I'm Gabriele Cembalo
 
 This is my personal page, I'm a Theoretical Physics student and here you can find some of my notes, ideas and software projects.
 
