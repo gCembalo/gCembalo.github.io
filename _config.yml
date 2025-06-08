@@ -2,3 +2,4 @@ title: "Gabriele Cembalo"
 description: "Notes and code"
 theme: jekyll-theme-minimal
 markdown: kramdown
+<link rel="stylesheet" href="/custom.css">
