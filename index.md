@@ -13,7 +13,7 @@ I'm a Theoretical Physics student and this is my personal page, here you can fin
 ### Lecture notes
 
 **Disclaimer**: These notes are a personal elaboration of the lectures from the course taught at University of Turin. The content provided does not represent official material from the professor or the university and may include subjective interpretations or errors. *This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes.* <br>
-[Licenza(ita)](/assets/license/LICENSE(ita)) <br>
+[Licenza(ita)](/assets/license/LICENZA(ita)) <br>
 [License(eng)](/assets/license/LICENSE(eng))
 
 [Metodi Matematici per la Fisica 2](/assets/pdf/MMF2.pdf) (last update: 22/01/2024) <br>
