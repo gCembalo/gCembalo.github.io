@@ -12,9 +12,7 @@ I'm a Theoretical Physics student and this is my personal page, here you can fin
 
 ### Lecture notes
 
-**Disclaimer**: These notes are a personal elaboration of the lectures from the course taught at University of Turin. The content provided does not represent official material from the professor or the university and may include subjective interpretations or errors. *This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes.* <br>
-[Licenza(ita)](/assets/license/LICENZA(ita)) <br>
-[License(eng)](/assets/license/LICENSE(eng))
+See the [License and Disclaimer](#license-and-disclaimer) section for terms of use.
 
 [Metodi Matematici per la Fisica 2](/assets/pdf/MMF2.pdf) (last update: 22/01/2024) <br>
 [Gemme di Teoria dei Gruppi](/assets/pdf/GG.pdf) (last update: 08/06/2025) <br>
@@ -24,3 +22,14 @@ I'm a Theoretical Physics student and this is my personal page, here you can fin
 
 ### Personal Project
 [Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
+
+## License and Disclaimer
+
+All materials on this site are a personal re-elaboration of the lectures from the course held at University of Turin.
+
+These notes are **not official materials** from the professore or the university. They may contain **subjective interpretations or errors**. Any rights to slides or teaching materials from the instructors remain with the original authors and are **not included** in these notes.
+
+These notes are shared **solely for educational and non-commercial purposes**, to support personal study.  
+*This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes.* <br>
+[Licenza(ita)](/assets/license/LICENZA(ita)) <br>
+[License(eng)](/assets/license/LICENSE(eng))
