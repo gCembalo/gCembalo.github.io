@@ -5,9 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
-    <link rel="stylesheet" href="{{ '/custom.css' | relative_url }}" /> <!--serve ad includere il file di customizzazione del colore del sito-->
+    <link rel="stylesheet" href="{{ '/custom.css' | relative_url }}" />
   </head>
   <body>
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> <!--header con h1 mostra il titolo del sito (site.title)-->
+    </header>
     <main>
       {{ content }}
     </main>
