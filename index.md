@@ -19,10 +19,10 @@ title: Home
 
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
-* [Unit of Measurement](/assets/pdf/formulary/udm.pfd) <br>
-* [Special Relativity](/assets/pdf/formulary/RS.pfd) <br>
-* [Calculus](/assets/pdf/formulary/Analisi.pfd) <br>
-* [Classical Mechanics](/assets/pdf/formulary/MC.pfd) <br>
+* [Unit of Measurement](/assets/pdf/formulary/udm.pdf) <br>
+* [Special Relativity](/assets/pdf/formulary/RS.pdf) <br>
+* [Calculus](/assets/pdf/formulary/Analisi.pdf) <br>
+* [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>
 
 ### Personal Project
 * [Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
