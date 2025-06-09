@@ -4,7 +4,7 @@ main {
 }
 
 .wrapper {
-  max-width: 1000px; /* o anche 100%, se vuoi tutta la larghezza disponibile */
+  max-width: 100px; /* o anche 100%, se vuoi tutta la larghezza disponibile */
   margin-left: auto;
   margin-right: auto;
   padding-left: 1rem;
