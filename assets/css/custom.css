@@ -7,8 +7,6 @@
 
 /* Colonna sinistra: header */
 .sidebar {
-  background-color: #90ee90; /* Cambia lo sfondo, facoltativo */
-  color: #333;               /* Cambia il colore del testo */
   flex: 1; /* 1 parte su 3 */
   padding-right: 1rem;
 }
@@ -20,7 +18,7 @@
 
 /* fppter */
 .footer {
-  flex: 3; /* 1 parte su 3 */
+  flex: 1; /* 1 parte su 3 */
   padding-right: 1rem;
 }
 
@@ -39,13 +37,7 @@
   color: darkgreen !important;
 }
 
-footer {
-  background-color: #f8f8f8; /* Cambia lo sfondo, facoltativo */
-  color: #333;               /* Cambia il colore del testo */
-  padding: 1rem;
-  text-align: center;
-  font-size: 0.9rem;
-}
+
 
 .footer a {
   color: green !important;
