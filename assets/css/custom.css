@@ -1,14 +1,4 @@
-main {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-/* Per gli spazi */
-.wrapper {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 1rem;
-}
+@import "jekyll-theme-minimal";
 
 a {
   color: green;
