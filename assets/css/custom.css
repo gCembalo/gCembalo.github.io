@@ -16,6 +16,10 @@
   flex: 2; /* 2 parti su 3 */
 }
 
+.footer {
+  flex: 3; /* 2 parti su 3 */
+}
+
 /* Colori dei link */
 .sidebar a {
   color: green !important;
