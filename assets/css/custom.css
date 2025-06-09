@@ -16,9 +16,11 @@
   flex: 2; /* 2 parti su 3 */
 }
 
-/* fppter */
-.footer {
-  flex: 3; /* 3 parte su 3 */
+/* footer */
+footer {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
 }
 
 /* Colori dei link */
