@@ -65,3 +65,23 @@ a.orderedlist:hover,
 a.orderedlist:active {
   color: darkgreen !important;
 }
+
+
+
+
+/* Layout responsive per schermi piccoli */
+@media (max-width: 768px) {
+  .layout-wrapper {
+    flex-direction: column; /* da righe a colonne */
+    padding: 0.5rem;
+  }
+
+  .sidebar {
+    padding-right: 0; /* rimuove spazio laterale */
+    margin-bottom: 1rem; /* spazio sotto la sidebar */
+  }
+
+  .content {
+    flex: unset;
+  }
+}
