@@ -3,10 +3,11 @@ main {
   margin-bottom: 1rem;
 }
 
+/* Per ridurre lo spazio orizzontale */
 .wrapper {
-  max-width: 100%; /* o anche 100%, se vuoi tutta la larghezza disponibile */
-  padding-left: 1rem;
-  padding-right: 1rem;
+  max-width: 100% !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
 }
 
 a {
