@@ -18,15 +18,15 @@
 
 /* Colori dei link */
 .sidebar a {
-  color: green;
+  color: teal !important;
 }
 .sidebar a:hover {
-  color: darkgreen;
+  color: darkslategray !important;
 }
 
 .content a {
-  color: green;
+  color: green !important;
 }
 .content a:hover {
-  color: darkgreen;
+  color: darkgreen !important;
 }
