@@ -18,8 +18,8 @@
 
 /* Colori dei link */
 a {
-  color: green;
+  color: green !important;
 }
 a:hover {
-  color: darkgreen;
+  color: darkgreen !important;
 }
