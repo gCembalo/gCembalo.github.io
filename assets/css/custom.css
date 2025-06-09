@@ -17,9 +17,9 @@
 }
 
 /* Colori dei link */
-main a {
+a {
   color: green;
 }
-main a:hover {
+a:hover {
   color: darkgreen;
 }
