@@ -5,8 +5,8 @@ main {
 
 /* Opzionale: riduce anche il padding nel wrapper */
 .wrapper {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  padding-top: 50rem;
+  padding-bottom: 50rem;
 }
 
 a {
