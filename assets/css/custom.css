@@ -1,0 +1,17 @@
+main {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Opzionale: riduce anche il padding nel wrapper */
+.wrapper {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+a {
+  color: green;
+}
+a:hover {
+  color: darkgreen; /* colore link al passaggio del mouse, opzionale */
+}
