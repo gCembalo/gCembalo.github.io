@@ -18,8 +18,7 @@
 
 /* fppter */
 .footer {
-  flex: 3; /* 1 parte su 3 */
-  padding-right: 1rem;
+  flex: 3; /* 3 parte su 3 */
 }
 
 /* Colori dei link */
