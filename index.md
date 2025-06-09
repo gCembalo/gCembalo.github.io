@@ -7,7 +7,7 @@ title: Home
 
 ### Lecture notes
 
-**Important** See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
+**Important**: See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
 
 * [Metodi Matematici per la Fisica 2](/assets/pdf/MMF2.pdf) (last update: 22/01/2024) <br>
 * [Gemme di Teoria dei Gruppi](/assets/pdf/GG.pdf) (last update: 08/06/2025) <br>
