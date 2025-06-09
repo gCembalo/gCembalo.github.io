@@ -1,4 +1,4 @@
-[< License](/assets/license/license.md)
+[< License](/assets/license/license.html)
 
 ## License (English version)
 
