@@ -18,10 +18,10 @@
 
 /* Colori dei link */
 .sidebar a {
-  color: red !important;
+  color: green !important;
 }
 .sidebar a:hover {
-  color: darkred !important;
+  color: darkgreen !important;
 }
 
 .content a {
