@@ -1,3 +1,4 @@
+/* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
 .layout-wrapper {
   display: flex;
   max-width: 1000px;
@@ -5,16 +6,48 @@
   padding: 1rem;
 }
 
+/* Modifiche da spiegare*/
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.layout-wrapper {
+  flex: 1;
+}
+/*------------------*/
+
 /* Colonna sinistra: header */
 .sidebar {
   flex: 1; /* 1 parte su 3 */
   padding-right: 1rem;
 }
+/* Colori dei link */
+.sidebar a {
+  color: green !important;
+}
+.sidebar a:hover {
+  color: darkgreen !important;
+}
+
 
 /* Colonna destra: contenuti */
 .content {
   flex: 2; /* 2 parti su 3 */
 }
+/* Colori dei link */
+.content a {
+  color: green !important;
+}
+.content a:hover {
+  color: darkgreen !important;
+}
+
 
 /* footer */
 footer {
@@ -26,32 +59,18 @@ footer {
 }
 
 footer p {
-  margin: 0 auto;
+  margin: 0;
   max-width: 100%;
   text-align: center;
 }
-
 /* Colori dei link */
-.sidebar a {
-  color: green !important;
-}
-.sidebar a:hover {
-  color: darkgreen !important;
-}
-
-.content a {
-  color: green !important;
-}
-.content a:hover {
-  color: darkgreen !important;
-}
-
 .footer a {
   color: green !important;
 }
 .footer a:hover {
   color: darkgreen !important;
 }
+
 
 /* Sto targettando ESATTAMENTE il link con classe orderedlist */
 a.orderedlist:link,
