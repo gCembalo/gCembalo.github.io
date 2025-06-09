@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />  <!--Includo il file custom.html-->
   </head>
   <body>
-    <div class="wrapper">
+    <div class="layout-wrapper"> <!--Permette di dividere in due colonne la pagina-->
+    <aside class="sidebar">
       <header>
         <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> <!--header con h1 mostra il titolo del sito (site.title)-->
 
@@ -24,10 +25,13 @@
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
       </header>
-      <section>
-        {{ content }}
-      </section>
+    </aside>
 
+      <main class="content">
+          {{ content }}
+      </main>
+    </div>
+      
       <footer>
           {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
