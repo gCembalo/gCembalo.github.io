@@ -16,11 +16,6 @@
   flex: 2; /* 2 parti su 3 */
 }
 
-.footer {
-  flex: 3; /* 2 parti su 3 */
-  padding-right: 1rem;
-}
-
 /* Colori dei link */
 .sidebar a {
   color: green !important;
@@ -34,6 +29,14 @@
 }
 .content a:hover {
   color: darkgreen !important;
+}
+
+footer {
+  background-color: #f8f8f8; /* Cambia lo sfondo, facoltativo */
+  color: #333;               /* Cambia il colore del testo */
+  padding: 1rem;
+  text-align: center;
+  font-size: 0.9rem;
 }
 
 .footer a {
