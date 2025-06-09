@@ -1,3 +1,7 @@
+[< License](/assets/license/license.md)
+
+## License (English version)
+
 Creative Commons Attribution-NonCommercial 4.0 International
 
 CC BY-NC 4.0
