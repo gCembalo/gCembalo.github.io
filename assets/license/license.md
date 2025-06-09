@@ -1,3 +1,8 @@
+---
+layout: default
+title: License and Disclaimer
+---
+
 **License and Disclaimer**
 
 All materials on this site are a personal re-elaboration of the lectures from the course held at University of Turin.
