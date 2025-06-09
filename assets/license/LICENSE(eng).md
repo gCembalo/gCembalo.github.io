@@ -16,8 +16,6 @@ Under the following terms:
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
-Full legal text of the license:
-https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Full legal text of the license: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-Human-readable summary:
-https://creativecommons.org/licenses/by-nc/4.0/
+Human-readable summary: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/)
