@@ -3,11 +3,11 @@ main {
   margin-bottom: 1rem;
 }
 
-/* Per ridurre lo spazio orizzontale */
+/* Per gli spazi */
 .wrapper {
-  max-width: 100% !important;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
 }
 
 a {
