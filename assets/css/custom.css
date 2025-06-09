@@ -3,10 +3,12 @@ main {
   margin-bottom: 1rem;
 }
 
-/* Opzionale: riduce anche il padding nel wrapper */
 .wrapper {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  max-width: 1000px; /* o anche 100%, se vuoi tutta la larghezza disponibile */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 a {
