@@ -17,9 +17,16 @@
 }
 
 /* Colori dei link */
-a {
-  color: green !important;
+.sidebar a {
+  color: teal;
 }
-a:hover {
-  color: darkgreen !important;
+.sidebar a:hover {
+  color: darkslategray;
+}
+
+.content a {
+  color: green;
+}
+.content a:hover {
+  color: darkgreen;
 }
