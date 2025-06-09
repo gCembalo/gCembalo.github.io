@@ -21,7 +21,7 @@ See the [License and Disclaimer](#license-and-disclaimer) section for terms of u
 * [Introduzione alla Teoria Quantistica dei Campi](/assets/pdf/IQFT.pdf) (last update: 08/06/2025) <br>
 
 ### Personal Project
-[Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
+* [Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
 
 ### License and Disclaimer
 
