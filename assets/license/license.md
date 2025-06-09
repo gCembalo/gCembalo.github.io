@@ -1,8 +1,7 @@
 ---
-layout: page
 title: License & Disclaimer
-
 ---
+<!--layout: page-->
 <!--permalink: /assets/license/license.html-->
 
 ## License and Disclaimer
