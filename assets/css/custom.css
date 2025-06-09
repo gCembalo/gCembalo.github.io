@@ -43,3 +43,13 @@
 .footer a:hover {
   color: darkgreen !important;
 }
+
+/* Sto targettando ESATTAMENTE il link con classe orderedlist */
+a.orderedlist:link,
+a.orderedlist:visited {
+  color: green !important;
+}
+a.orderedlist:hover,
+a.orderedlist:active {
+  color: darkgreen !important;
+}
