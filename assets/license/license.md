@@ -7,6 +7,6 @@ These notes are **not official materials** from the professore or the university
 These notes are shared **solely for educational and non-commercial purposes**, to support personal study.  
 *This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0) International License](https://creativecommons.org/licenses/by-nc/4.0/). You are free to share and adapt the material, as long as you provide proper attribution and do not use it for commercial purposes.* <br>
 
-[Licenza(ita)](/assets/license/LICENZA(ita).html)
+[Licenza(ita)](/assets/license/LICENZA(ita).md)
 
-[License(eng)](/assets/license/LICENSE(eng).html)
+[License(eng)](/assets/license/LICENSE(eng).md)
