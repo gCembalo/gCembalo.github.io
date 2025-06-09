@@ -1,16 +1,19 @@
-/* Corregge la larghezza del contenitore */
-.wrapper {
-  max-width: 800px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1rem !important;
-  padding-right: 1rem !important;
+.layout-wrapper {
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 1rem;
 }
 
-/* Opzionale: riduci spazio verticale */
-main {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+/* Colonna sinistra: header */
+.sidebar {
+  flex: 1; /* 1 parte su 3 */
+  padding-right: 1rem;
+}
+
+/* Colonna destra: contenuti */
+.content {
+  flex: 2; /* 2 parti su 3 */
 }
 
 /* Colori dei link */
