@@ -1,8 +1,22 @@
-@import "jekyll-theme-minimal";
+/* Corregge la larghezza del contenitore */
+.wrapper {
+  max-width: 800px !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
 
-a {
+/* Opzionale: riduci spazio verticale */
+main {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+/* Colori dei link */
+main a {
   color: green;
 }
-a:hover {
-  color: darkgreen; /* colore link al passaggio del mouse, opzionale */
+main a:hover {
+  color: darkgreen;
 }
