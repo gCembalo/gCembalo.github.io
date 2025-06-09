@@ -18,6 +18,7 @@
 
 .footer {
   flex: 3; /* 2 parti su 3 */
+  padding-right: 1rem;
 }
 
 /* Colori dei link */
