@@ -40,12 +40,7 @@ footer {
   padding: 1rem 0;
   text-align: left;
   box-sizing: border-box;
-}
-
-footer p {
   margin: 0;
-  max-width: 100%;
-  text-align: center;
 }
 /* Colori dei link */
 .footer a {
