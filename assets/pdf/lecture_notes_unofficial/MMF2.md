@@ -3,6 +3,8 @@ layout: default
 title: License and Disclaimer
 ---
 
+[< Home](/index.html)
+
 ## Mathematical Methods for the Physics - Lecture notes (by hand)
 
 [Parte 1](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2_1.pdf): Trasformazioni conformi; continuazione analitica; funzioni polidrome. <br>
