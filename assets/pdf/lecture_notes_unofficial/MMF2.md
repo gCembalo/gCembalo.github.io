@@ -1,6 +1,11 @@
-# Mathematical Methods for the Physics - Lecture notes (by hand)
+---
+layout: default
+title: License and Disclaimer
+---
 
-## Description
+## Mathematical Methods for the Physics - Lecture notes (by hand)
+
+### Description
 
 Parte 1: Trasformazioni conformi; continuazione analitica; funzioni polidrome. <br>
 Parte 2: Funzioni speciali. <br>
