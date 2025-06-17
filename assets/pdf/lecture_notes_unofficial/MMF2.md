@@ -5,7 +5,7 @@ title: License and Disclaimer
 
 [< Home](/index.html)
 
-## Mathematical Methods for the Physics - Lecture notes (by hand)
+## Mathematical Methods for the Physics 2 - Handwritten notes
 
 [Parte 1](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2_1.pdf): Trasformazioni conformi; continuazione analitica; funzioni polidrome. <br>
 [Parte 2](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2_2.pdf): Funzioni speciali. <br>
