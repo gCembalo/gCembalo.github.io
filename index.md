@@ -26,4 +26,4 @@ title: Home
 * [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>
 
 ### Personal Project
-* [Guida introduttiva a GitHub](https://github.com/gCembalo/Guida-GitHub.git) <br>
+* [Getting Started with GitHub (it)](https://github.com/gCembalo/Guida-GitHub.git) <br>
