@@ -9,7 +9,7 @@ title: Home
 
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
-* [Metodi Matematici per la Fisica 2](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) &nbsp;&nbsp;&nbsp; [Notes by hand](/assets/pdf/lecture_notes_unofficial/MMF2.html) <br>
+* [Metodi Matematici per la Fisica 2](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Notes by hand](/assets/pdf/lecture_notes_unofficial/MMF2.html) <br>
 * [Gemme di Teoria dei Gruppi](/assets/pdf/lecture_notes/GG.pdf) (last update: 08/06/2025) <br>
 * [Meccanica Quantistica 1](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
 * [Meccanica Quantistica 2](/assets/pdf/lecture_notes/MQ2.pdf) (last update: 17/06/2025) <br>
