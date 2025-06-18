@@ -9,9 +9,17 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-
+    <title>{{ site.data.translations[page.lang].about_title }}</title>
+  <style>
+    .language-switch {
+      position: absolute;
+      top: 1rem;
+      right: 1rem;
+    }
+  </style>
+    
 {% seo %}
-    <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
+    <!--<title>{{ page.title | escape }} - {{ site.title | escape }}</title>-->
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />  <!--Includo il file custom.html-->
   </head>
@@ -23,6 +31,11 @@
     {% endif %}
   </nav>
   <body>
+    <div class="language-switch">
+      <a href="{{ site.data.translations[page.lang].switch_url }}">
+        {{ site.data.translations[page.lang].switch_label }}
+      </a>
+    </div>
     <div class="layout-wrapper"> <!--Permette di dividere in due colonne la pagina-->
     <aside class="sidebar">
       <header>
