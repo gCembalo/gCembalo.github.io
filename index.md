@@ -9,7 +9,7 @@ title: Home
 
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
-<!--* [(Handwritten notes) Introduction to Solid state physics (it)](/assets/pdf/lecture_notes/SM.pdf) <br>            Stesso discorso degli esercizi-->
+* [(Handwritten notes) Introduction to Solid state physics (it)](/assets/pdf/lecture_notes_unofficial/SM.html) <br>
 * [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
   [(Handwritten notes) Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes_unofficial/MMF2.html) <br>
 * [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf) (last update: 08/06/2025) <br>
