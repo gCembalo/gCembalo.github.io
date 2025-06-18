@@ -41,4 +41,4 @@ title: Home
 
 ### Something I found usefull
 
-* [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi) <br>
+* [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
