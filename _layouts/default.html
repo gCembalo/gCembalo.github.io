@@ -15,6 +15,13 @@
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />  <!--Includo il file custom.html-->
   </head>
+  <nav>
+    {% if page.lang == "en" %}
+      <a href="{{ page.url | replace: '/en/', '/it/' }}">Italiano</a>
+    {% else %}
+      <a href="{{ page.url | replace: '/it/', '/en/' }}">English</a>
+    {% endif %}
+  </nav>
   <body>
     <div class="layout-wrapper"> <!--Permette di dividere in due colonne la pagina-->
     <aside class="sidebar">
