@@ -31,3 +31,5 @@ title: Home
 ### [Personal Project](assets/personal_project.html)
 
 ### [Something I found usefull](/assets/something_usefull.html)
+
+#### [License Documentation](/assets/license/license.html)
