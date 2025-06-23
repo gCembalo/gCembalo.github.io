@@ -7,6 +7,10 @@ title: Hamdwritten Notes
 
 # Hamdwritten Notes
 
+I Collect in this Post all my handwritten lecture notes. <br>
+
+*Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
+
 ## Quantum Mechanics 2
 
 [Postulati della Meccanica Quantistica](/assets/pdf/lecture_notes_unofficial/MQ2-Postulati_MQ.pdf) <br>
