@@ -42,7 +42,8 @@
 
 /* footer */
 footer {
-  width: 100%;
+  /*width: 100%;*/
+  flex: 3;
   /*background-color: #f2f2f2; /* o trasparente, se preferisci */
   padding: 1rem 0;
   text-align: left;
