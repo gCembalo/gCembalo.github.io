@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Hamdwritten Notes
+title: Handwritten Notes
 ---
 
 [< Home](/index.html)
 
-# Hamdwritten Notes
+# Handwritten Notes
 
 I Collect in this Post all my handwritten lecture notes. <br>
 
-*Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
+*Important*: See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
 
 ## Quantum Mechanics 2
 
