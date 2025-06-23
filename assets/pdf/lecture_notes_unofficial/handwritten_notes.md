@@ -11,6 +11,8 @@ title: Hamdwritten Notes
 
 [Postulati della Meccanica Quantistica](/assets/pdf/lecture_notes_unofficial/MQ2-Postulati_MQ.pdf) <br>
 
+Il resto degli appunti sono presenti nelle [*Lecture Notes*](/assets/pdf/lecture_notes/MQ2.pdf) in LaTeX.
+
 ## Mathematical Methods for the Physics 2
 
 [Parte 1](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2_1.pdf): Trasformazioni conformi; continuazione analitica; funzioni polidrome. <br>
