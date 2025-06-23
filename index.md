@@ -36,9 +36,9 @@ title: Home
 * [Calculus](/assets/pdf/formulary/Analisi.pdf) <br>
 * [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>-->
 
-### Personal Project
-* [Getting Started with GitHub (it)](https://github.com/gCembalo/Guida-GitHub.git) <br>
+### [Personal Project](assets/personal_project.html)
+<!--* [Getting Started with GitHub (it)](https://github.com/gCembalo/Guida-GitHub.git) <br>-->
 
 ### Something I found usefull
 
-* [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.md) <br>
+* [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
