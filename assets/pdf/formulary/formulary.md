@@ -16,10 +16,10 @@ These notes are shared **solely for educational and non-commercial purposes**, t
 
 See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
 
-[Unit of Measurement](/assets/pdf/formulary/udm.pdf)
+* [Unit of Measurement](/assets/pdf/formulary/udm.pdf)
 
-[Special Relativity](/assets/pdf/formulary/RS.pdf)
+* [Special Relativity](/assets/pdf/formulary/RS.pdf)
 
-[Calculus](/assets/pdf/formulary/Analisi.pdf)
+* [Calculus](/assets/pdf/formulary/Analisi.pdf)
 
-[Classical Mechanics](/assets/pdf/formulary/CM.pdf)
+* [Classical Mechanics](/assets/pdf/formulary/CM.pdf)
