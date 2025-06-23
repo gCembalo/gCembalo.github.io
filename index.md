@@ -27,14 +27,14 @@ title: Home
 * [EM and Special Relativity exercises (it)](/assets/pdf/exercises/EMRSes.pdf) <br>
 -->
 
-### Formulary
+### [Formulary](/assets/pdf/formulary/formulary.html)
 
-*Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
+<!--*Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
 * [Unit of Measurement](/assets/pdf/formulary/udm.pdf) <br>
 * [Special Relativity](/assets/pdf/formulary/RS.pdf) <br>
 * [Calculus](/assets/pdf/formulary/Analisi.pdf) <br>
-* [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>
+* [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>-->
 
 ### Personal Project
 * [Getting Started with GitHub (it)](https://github.com/gCembalo/Guida-GitHub.git) <br>
