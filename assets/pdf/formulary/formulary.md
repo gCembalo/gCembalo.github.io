@@ -14,4 +14,4 @@ See the [License and Disclaimer](/assets/license/license.html) section for terms
 * [Unit of Measurement](/assets/pdf/formulary/udm.pdf) <br>
 * [Special Relativity](/assets/pdf/formulary/RS.pdf) <br>
 * [Calculus](/assets/pdf/formulary/Analisi.pdf) <br>
-* [Classical Mechanics](/assets/pdf/formulary/CM.pdf) <br>
+* [Classical Mechanics](/assets/pdf/formulary/MC.pdf) <br>
