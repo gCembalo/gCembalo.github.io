@@ -41,6 +41,4 @@ title: Home
 ### [Personal Project](assets/personal_project.html)
 <!--* [Getting Started with GitHub (it)](https://github.com/gCembalo/Guida-GitHub.git) <br>-->
 
-### Something I found usefull
-
-* [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
+### [Something I found usefull](/assets/something_usefull.html)
