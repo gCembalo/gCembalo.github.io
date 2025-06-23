@@ -6,6 +6,13 @@
   padding: 1rem;
 }
 
+.layout-wrapper a {
+  color: green !important;
+}
+..layout-wrapper a:hover {
+  color: darkgreen !important;
+}
+
 /* Colonna sinistra: header */
 .sidebar {
   flex: 1; /* 1 parte su 3 */
@@ -48,12 +55,6 @@ footer {
 }
 .footer a:hover {
   color: darkgreen !important;
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 0 1rem;
 }
 
 
