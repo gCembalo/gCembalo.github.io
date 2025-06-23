@@ -20,6 +20,6 @@ Alle seguenti condizioni:
 
 Non sono concessi diritti che vadano oltre quanto indicato dalla licenza.
 
-Una copia completa della licenza è disponibile qui: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
+Una copia completa della licenza è disponibile qui: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Una sintesi leggibile (non legalmente vincolante) è disponibile qui: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/deed.it)
+Una sintesi leggibile (non legalmente vincolante) è disponibile qui: [https://creativecommons.org](https://creativecommons.org/licenses/by-nc/4.0/)
