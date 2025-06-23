@@ -14,6 +14,7 @@ title: Home
 * [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
 * [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/MQ2.pdf) (last update: 17/06/2025) <br>
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025)
+
 [Handwritten Notes](/assets/pdf/lecture_notes_unofficial/handwritten_notes.html)
 
 <!--Devo trovare la voglia di creare un pagina html con i vari pdf divisi in parti, perché sono troppo gradi. Dovrei fare una cosa analoga a quanto fatto per MMF2 handwritten notes.
