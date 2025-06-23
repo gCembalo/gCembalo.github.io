@@ -9,7 +9,7 @@
 .layout-wrapper a {
   color: green !important;
 }
-..layout-wrapper a:hover {
+.layout-wrapper a:hover {
   color: darkgreen !important;
 }
 
