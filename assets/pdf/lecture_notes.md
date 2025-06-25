@@ -2,12 +2,15 @@
 layout: default
 title: Lecture Notes
 ---
+[<Home](/index.html)
 
 # Lecture notes
 
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
 <hr>
+
+I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other handwritten.
 
 ## LaTeX Notes
 
