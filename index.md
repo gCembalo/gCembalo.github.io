@@ -33,4 +33,6 @@ title: Home
 
 ### [Something I found usefull](/assets/something_usefull.html)
 
+<hr>
+
 #### [License Documentation](/assets/license/license.html)
