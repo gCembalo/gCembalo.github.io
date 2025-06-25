@@ -5,8 +5,9 @@ title: Home
 
 ## My posts
 
-### [Lecture notes](/assets/pdf/lecture_notes/lecture_notes.html)
+### [Lecture notes](/assets/pdf/lecture_notes.html)
 
+<!--
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
 * [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
@@ -16,6 +17,7 @@ title: Home
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025) <br>
   
 * [Handwritten Notes](/assets/pdf/lecture_notes_unofficial/handwritten_notes.html)
+-->
 
 <!--Devo trovare la voglia di creare un pagina html con i vari pdf divisi in parti, perché sono troppo gradi. Dovrei fare una cosa analoga a quanto fatto per MMF2 handwritten notes.
 #### Exercise Solutions
