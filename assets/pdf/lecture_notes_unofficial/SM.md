@@ -1,11 +1,15 @@
 ---
 layout: default
-title: License and Disclaimer
+title: Introduction to Solid State Physics - Handwritten notes
 ---
 
 [< Home](/index.html)
 
 ## Introduction to Solid State Physics - Handwritten notes
+
+*Important*: See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
+
+<hr>
 
 [Parte 1](/assets/pdf/lecture_notes_unofficial/SM/SM_1.pdf): Atomo H; Effetto Zeeman; Spin-Orbita; Atomo He; Hartree-Fock; Zeeman anomalo. <br>
 [Parte 2](/assets/pdf/lecture_notes_unofficial/SM/SM_2.pdf): Atomi multielettronici; tavola periodica. <br>
