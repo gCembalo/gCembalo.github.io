@@ -3,7 +3,7 @@ layout: default
 title: Introduction to Solid State Physics - Handwritten notes
 ---
 
-[< Home](/index.html)
+[< Lecture Notes](/assets/pdf/lecture_notes.html)
 
 ## Introduction to Solid State Physics - Handwritten notes
 
