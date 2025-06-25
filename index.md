@@ -5,7 +5,7 @@ title: Home
 
 ## My posts
 
-### Lecture notes
+### [Lecture notes](/assets/pdf/lecture_notes/lecture_notes.html)
 
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
 
