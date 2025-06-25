@@ -3,7 +3,7 @@ layout: default
 title: Mathematical Methods for the Physics 2 - Handwritten notes
 ---
 
-[< Home](/index.html)
+[< Lecture Notes](/assets/pdf/lecture_notes.html)
 
 ## Mathematical Methods for the Physics 2 - Handwritten notes
 
