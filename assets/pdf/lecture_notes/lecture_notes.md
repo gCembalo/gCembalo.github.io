@@ -24,4 +24,4 @@ title: Lecture Notes
 
 * [Mathematical Methods for the Physics](/assets/pdf/lecture_notes_unofficial/MMF2.html) <br>
 * [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2.html) <br>
-* [Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM.html) <br>
+* [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM.html) <br>
