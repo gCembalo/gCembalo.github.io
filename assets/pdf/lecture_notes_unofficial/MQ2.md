@@ -3,7 +3,7 @@ layout: default
 title: Quantum Mechanics 2 - Handwritten Notes
 ---
 
-[< Home](/index.html)
+[< Lecture Notes](/assets/pdf/lecture_notes.html)
 
 ## Quantum Mechanics 2 - Handwritten Notes
 
