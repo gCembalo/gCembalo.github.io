@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- Navbar -->
-<nav style="background-color:#f2f2f2; border-bottom:1px solid #ccc; padding:10px 20px; display:flex; justify-content:space-between; font-family:sans-serif;">
+<nav style="border-bottom:1px solid #ccc; padding:10px 20px; display:flex; justify-content:space-between; font-family:sans-serif;">
   <div>
     <a href="/" style="font-weight:bold; text-decoration:none; color:#333;">Home</a>
   </div>
