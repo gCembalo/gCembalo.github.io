@@ -33,19 +33,24 @@
         <a href="mailto:g70362643@gmail.com?subject=&body=">Send me an email</a><br>
         <!--<p>Send me an <a href="mailto:g70362643@gmail.com?subject=Hey%20there&body=Hi,%20I'm%20">email</a></p>-->
         <a href='/assets/pdf/CV/CVen.pdf'>See my CV<br>
+
+        <aside class="sidebar">
+        {{ content }}
+        {% include footer.html %}
+        </aside>
       </header>
       </aside>
         <main class="content">
             {{ content }}
         </main>
       </div>
-      <footer>
+      <!--<footer>
           {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
           {% endif %}
           © {{ site.time | date: "%Y" }} — Cembalo Gabriele
           <p><small>Created by Cembalo Gabriele &mdash; Hosted on GitHub Pages &mdash; Theme by <a class="orderedlist" href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
+      </footer>-->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
