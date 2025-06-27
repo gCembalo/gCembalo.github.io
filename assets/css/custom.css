@@ -70,6 +70,20 @@ a.orderedlist:active {
 
 
 
+/*Style per sidebar + footer*/
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  /* altezza fissa? */
+}
+.sidebar footer {
+  margin-top: auto;
+  padding: 1rem;
+  /* altri stili */
+}
+
+
 
 /* Layout responsive per schermi piccoli */
 @media (max-width: 768px) {
