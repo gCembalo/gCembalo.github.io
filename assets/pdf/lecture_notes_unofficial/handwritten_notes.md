@@ -3,7 +3,7 @@ layout: default
 title: Handwritten Notes
 ---
 
-[< Home](/index.html)
+<!--[< Home](/index.html)-->
 
 # Handwritten Notes
 
