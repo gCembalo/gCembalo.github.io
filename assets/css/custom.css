@@ -18,8 +18,8 @@
   flex: 1; /* 1 parte su 3 */
   padding-right: 1rem;
   /*    */
-  /*flex-direction: column;
-  justify-content: space-between;*/
+  flex-direction: column;
+  justify-content: space-between;
   /* altezza fissa? */
 }
 /* Colori dei link */
@@ -45,8 +45,9 @@
 
 
 /* footer */
-.footer {
+.sidebar footer {
   width: 100%;
+  margin-top: auto;
   /*background-color: #f2f2f2; /* o trasparente, se preferisci */
   padding: 1rem 0;
   text-align: left;
@@ -54,10 +55,10 @@
   margin: 0;
 }
 /* Colori dei link */
-.footer a {
+.sidebar footer a {
   color: green !important;
 }
-.footer a:hover {
+.sidebar footer a:hover {
   color: darkgreen !important;
 }
 
