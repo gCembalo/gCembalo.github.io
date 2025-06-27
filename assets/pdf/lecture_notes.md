@@ -2,7 +2,8 @@
 layout: default
 title: Lecture Notes
 ---
-[<Home](/index.html)
+
+<!--[<Home](/index.html)-->
 
 # Lecture notes
 
