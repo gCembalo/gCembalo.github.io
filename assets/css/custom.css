@@ -17,6 +17,10 @@
 .sidebar {
   flex: 1; /* 1 parte su 3 */
   padding-right: 1rem;
+  /*    */
+  flex-direction: column;
+  justify-content: space-between;
+  /* altezza fissa? */
 }
 /* Colori dei link */
 .sidebar a {
@@ -41,7 +45,7 @@
 
 
 /* footer */
-footer {
+.footer {
   width: 100%;
   /*background-color: #f2f2f2; /* o trasparente, se preferisci */
   padding: 1rem 0;
