@@ -3,7 +3,7 @@ layout: default
 title: Formulary
 ---
 
-[< Home](/index.html)
+<!--[< Home](/index.html)-->
 
 ## Formulary
 
