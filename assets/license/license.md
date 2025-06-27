@@ -3,7 +3,7 @@ layout: default
 title: License and Disclaimer
 ---
 
-[< Home](/index.html)
+<!--[< Home](/index.html)-->
 
 ## License and Disclaimer
 
