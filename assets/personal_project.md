@@ -3,7 +3,7 @@ layout: default
 title: Personal Project
 ---
 
-[< Home](/index.html)
+<!--[< Home](/index.html)-->
 
 ## Personal Project
 
