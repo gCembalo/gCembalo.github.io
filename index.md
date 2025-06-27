@@ -20,7 +20,7 @@ title: Home
 
 ## My posts
 
-<div>&nbsp&nbsp&nbsp [Lecture notes](/assets/pdf/lecture_notes.html)</div>
+   [Lecture notes](/assets/pdf/lecture_notes.html)
 
 <!--
 *Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
@@ -44,12 +44,12 @@ title: Home
 * [EM and Special Relativity exercises (it)](/assets/pdf/exercises/EMRSes.pdf) <br>
 -->
 
-<div>&nbsp&nbsp&nbsp [Formulary](/assets/pdf/formulary/formulary.html)</div>
+   [Formulary](/assets/pdf/formulary/formulary.html)
 
-<div>&nbsp&nbsp&nbsp [Personal Project](assets/personal_project.html)</div>
+   [Personal Project](assets/personal_project.html)
 
-<div>&nbsp&nbsp&nbsp [Something I found usefull](/assets/something_usefull.html)</div>
+   [Something I found usefull](/assets/something_usefull.html)
 
 <hr>
 
-<div>&nbsp&nbsp&nbsp [License Documentation](/assets/license/license.html)</div>
+   [License Documentation](/assets/license/license.html)
