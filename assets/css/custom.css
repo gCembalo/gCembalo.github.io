@@ -1,15 +1,89 @@
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
-
-/*Style per sidebar + footer*/
-.sidebar {
+.layout-wrapper {
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  /* altezza fissa? */
-}
-.sidebar footer {
-  margin-top: auto;
+  max-width: 1000px;
+  margin: 0 auto;
   padding: 1rem;
-  /* altri stili */
 }
 
+.layout-wrapper a {
+  color: green !important;
+}
+.layout-wrapper a:hover {
+  color: darkgreen !important;
+}
+
+/* Colonna sinistra: header */
+.sidebar {
+  flex: 1; /* 1 parte su 3 */
+  padding-right: 1rem;
+}
+/* Colori dei link */
+.sidebar a {
+  color: green !important;
+}
+.sidebar a:hover {
+  color: darkgreen !important;
+}
+
+
+/* Colonna destra: contenuti */
+.content {
+  flex: 2; /* 2 parti su 3 */
+}
+/* Colori dei link */
+.content a {
+  color: green !important;
+}
+.content a:hover {
+  color: darkgreen !important;
+}
+
+
+/* footer */
+footer {
+  width: 100%;
+  /*background-color: #f2f2f2; /* o trasparente, se preferisci */
+  padding: 1rem 0;
+  text-align: left;
+  box-sizing: border-box;
+  margin: 0;
+}
+/* Colori dei link */
+.footer a {
+  color: green !important;
+}
+.footer a:hover {
+  color: darkgreen !important;
+}
+
+
+/* Sto targettando ESATTAMENTE il link con classe orderedlist */
+a.orderedlist:link,
+a.orderedlist:visited {
+  color: green !important;
+}
+a.orderedlist:hover,
+a.orderedlist:active {
+  color: darkgreen !important;
+}
+
+
+
+
+/* Layout responsive per schermi piccoli */
+@media (max-width: 768px) {
+  .layout-wrapper {
+    flex-direction: column; /* da righe a colonne */
+    padding: 0.5rem;
+  }
+
+  .sidebar {
+    padding-right: 0; /* rimuove spazio laterale */
+    margin-bottom: 1rem; /* spazio sotto la sidebar */
+  }
+
+  .content {
+    flex: unset;
+  }
+}
