@@ -54,4 +54,4 @@ title: Home
 
 <hr>
 
-### [License Documentation](/assets/license/license.html)
+#### [License Documentation](/assets/license/license.html)
