@@ -20,6 +20,8 @@ title: Home
 
 ## My posts
 
+<hr>
+
 ### [Lecture notes](/assets/pdf/lecture_notes.html)
 
 <!--
