@@ -3,7 +3,7 @@ layout: default
 title: Something I Found Usefull
 ---
 
-[< Home](/index.html)
+<!--[< Home](/index.html)-->
 
 ## Something I Found Usefull
 
