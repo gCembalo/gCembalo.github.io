@@ -1,5 +1,5 @@
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
-.layout-wrapper {
+/*.layout-wrapper {
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
@@ -11,7 +11,7 @@
 }
 .layout-wrapper a:hover {
   color: darkgreen !important;
-}
+}*/
 
 /* Colonna sinistra: header */
 .sidebar {
