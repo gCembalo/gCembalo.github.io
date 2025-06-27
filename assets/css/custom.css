@@ -1,15 +1,15 @@
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
-.layout-wrapper {
+.wrapper {
   display: flex;
   max-width: 1000px;
   margin: 0 auto;
   padding: 1rem;
 }
 
-.layout-wrapper a {
+.wrapper a {
   color: green !important;
 }
-.layout-wrapper a:hover {
+.wrapper a:hover {
   color: darkgreen !important;
 }
 
@@ -73,7 +73,7 @@ a.orderedlist:active {
 
 /* Layout responsive per schermi piccoli */
 @media (max-width: 768px) {
-  .layout-wrapper {
+  .wrapper {
     flex-direction: column; /* da righe a colonne */
     padding: 0.5rem;
   }
