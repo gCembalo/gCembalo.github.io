@@ -12,7 +12,7 @@ title: Wave, fluids, TD exercises
 <hr>
 
 * [Parte 1](/assets/pdf/exercises/OFTes/OFTes_1.pdf): Esercizi aggiuntivi (vedi [Testi](/assets/pdf/exercises/OFTaddes.pdf)). <br>
-* Esercitazioni:
+* Parte 2:
   - [Esercitazioni 1-4 (onde)](/assets/pdf/exercises/OFTes/OFTes_2_1.pdf) <br>
   - [Esercitazioni 5-8 (fluidi)](/assets/pdf/exercises/OFTes/OFTes_2_2.pdf) <br>
   - [Esercitazioni 9-12 (termodinamica)](/assets/pdf/exercises/OFTes/OFTes_2_3.pdf) <br>
