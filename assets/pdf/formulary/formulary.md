@@ -5,7 +5,7 @@ title: Formulary
 
 <!--[< Home](/index.html)-->
 
-## Formulary
+# Formulary
 
 See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
 
