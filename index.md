@@ -28,6 +28,8 @@ title: Home
 
 ### [Formulary](/assets/pdf/formulary/formulary.html)
 
+### [Some interesting readings](/assets/readings.html)
+
 ### [Personal Project](assets/personal_project.html)
 
 ### [Something I found usefull](/assets/something_usefull.html)
