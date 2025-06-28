@@ -13,7 +13,7 @@ I Collect in this Post all my handwritten lecture notes. <br>
 
 ## Quantum Mechanics 2
 
-[Postulati della Meccanica Quantistica](/assets/pdf/lecture_notes_unofficial/MQ2-Postulati_MQ.pdf) <br>
+[Postulati della Meccanica Quantistica](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2-Postulati_MQ.pdf) <br>
 
 Il resto degli appunti sono presenti nelle [*Lecture Notes*](/assets/pdf/lecture_notes/MQ2.pdf) in LaTeX.
 
