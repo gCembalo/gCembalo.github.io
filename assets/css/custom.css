@@ -92,3 +92,13 @@ a.orderedlist:active {
     flex: unset;
   }
 }
+
+
+/* Questa parte mi serve per aggiustare lo spazio tra le righe degli itemize */
+ul li:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+ul ul {
+  margin-bottom: 0;
+}
