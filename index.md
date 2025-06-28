@@ -13,11 +13,13 @@ title: Home
 
 ### [Formulary](/assets/pages/formulary.html)
 
-### [Some interesting readings](/assets/pages/readings.html)
+<!--### [Some interesting readings](/assets/pages/readings.html)
 
 ### [Personal Project](assets/pages/personal_project.html)
 
-### [Something I found usefull](/assets/pages/something_usefull.html)
+### [Something I found usefull](/assets/pages/something_usefull.html)-->
+
+### [Personal projects and other stuff](/assets/pages/project_others.md)
 
 <hr>
 
