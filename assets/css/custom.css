@@ -95,14 +95,20 @@ a.orderedlist:active {
 
 
 /* Questa parte mi serve per aggiustare lo spazio tra le righe degli itemize */
+/* Rimuove spazio extra tra liste annidate */
+ul ul {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+/* Rimuove margine in basso dall’ultimo elemento */
 ul li:last-child {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-ul ul {
-  margin-bottom: 0;
-}
 
-.exercises-list ul ul {
-  margin-bottom: 0;
+/* Rimuove margine tra due sezioni successive */
+ul + ul,
+ul + p {
+  margin-top: 0;
 }
