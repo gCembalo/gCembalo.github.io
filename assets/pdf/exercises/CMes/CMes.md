@@ -11,10 +11,10 @@ title: Classical Mechanics exercises
 
 <hr>
 
-* [Parte 1](/assets/pdf/exercises/CM/CM_1.pdf): . <br>
-* [Parte 2](/assets/pdf/exercises/CM/CM_2.pdf): . <br>
-* [Parte 3](/assets/pdf/exercises/CM/CM_3.pdf): . <br>
-* [Parte 4](/assets/pdf/exercises/CM/CM_4.pdf): . <br>
-* [Parte 5](/assets/pdf/exercises/CM/CM_5.pdf): . <br>
+* [Parte 1](/assets/pdf/exercises/CMes/CMes_1.pdf): . <br>
+* [Parte 2](/assets/pdf/exercises/CMes/CMes_2.pdf): . <br>
+* [Parte 3](/assets/pdf/exercises/CMes/CMes_3.pdf): . <br>
+* [Parte 4](/assets/pdf/exercises/CMes/CMes_4.pdf): . <br>
+* [Parte 5](/assets/pdf/exercises/CMes/CMes_5.pdf): . <br>
 
 I testi completi degli esercizi si possono vedere nei canali ufficiali dell'Università.
