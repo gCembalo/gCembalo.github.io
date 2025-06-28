@@ -26,6 +26,6 @@ I collect in this Post all my lectures notes that I consider valid to share. The
 
 ## Handwritten Notes
 
-* [Mathematical Methods for the Physics 2](/assets/pdf/lecture_notes_unofficial/MMF2.html) <br>
-* [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2.html) <br>
-* [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM.html) <br>
+* [Mathematical Methods for the Physics 2](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html) <br>
+* [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html) <br>
+* [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM/SM.html) <br>
