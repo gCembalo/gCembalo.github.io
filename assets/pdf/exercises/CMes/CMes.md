@@ -19,6 +19,7 @@ title: Classical Mechanics exercises
   - [Esercitazioni 8,9 (sistemi di riferimento)](/assets/pdf/exercises/CMes/CMes_2_4.pdf). <br>
   - [Esercitazioni 10,11,12,13,14 (corpo rigido)](/assets/pdf/exercises/CMes/CMes_2_5.pdf). <br>
   - [Esercitazioni 15 (gravitazione)](/assets/pdf/exercises/CMes/CMes_2_6.pdf).
+<span style="display:none">&nbsp;</span>
 * [Parte 3](/assets/pdf/exercises/CMes/CMes_3.pdf): Esercizi extra. <br>
 * [Parte 4](/assets/pdf/exercises/CMes/CMes_4.pdf): Tutoraggi (2023-2024). <br>
 * [Parte 5](/assets/pdf/exercises/CMes/CMes_5.pdf): Prove d'esame. <br>
