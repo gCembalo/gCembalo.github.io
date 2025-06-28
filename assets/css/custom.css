@@ -102,3 +102,7 @@ ul li:last-child {
 ul ul {
   margin-bottom: 0;
 }
+
+.exercises-list ul ul {
+  margin-bottom: 0;
+}
