@@ -7,7 +7,7 @@ title: Lecture Notes
 
 # Lecture notes
 
-*Important*: See the [License and Disclaimer](/assets/license/license.md) section for terms of use.
+*Important*: See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
 
 <hr>
 
