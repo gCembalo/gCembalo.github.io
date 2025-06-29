@@ -5,35 +5,35 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
 <link rel="manifest" href="/assets/img/favicon/site.webmanifest">
 <!-- --------------------- -->
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: "en-US" }}"><!-- Definisco la lingua e le cose base della pagina-->
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    
+<!-- importo lo stile modificato che scrivo nel file custom.css-->
 {% seo %}
     <title>{{ page.title | escape }} - {{ site.title | escape }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />  <!--Includo il file custom.html-->
   </head>
-  <body>
+  <body><!-- creo il body della pagina, in cui metto tutta la colonna di sinistra-->
     <div class="layout-wrapper"> <!--Permette di dividere in due colonne la pagina-->
-    <aside class="sidebar">
+    <aside class="sidebar"> <!-- nella classe sidebar metto tutto ciò che compare sulla sinistra della pagina-->
       <header>
         <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1> <!--header con h1 mostra il titolo del sito (site.title)-->
-
+        <!-- inserisco l'immagine (Logo di _config) della pagina -->
         {% if site.logo %}
             <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-      
+        <!-- inserisco la descrizione (description di _config) della pagina -->
         <p>{{ site.description }}</p>
-
+        <!-- scrivo i tre riferimenti sotto l'immagine -->
         {% if site.github.is_user_page %}
           <a href="{{ site.github.owner_url }}">View My GitHub Profile</a><br>
         {% endif %}
         <a href="mailto:g70362643@gmail.com?subject=&body=">Send me an email</a><br>
         <!--<p>Send me an <a href="mailto:g70362643@gmail.com?subject=Hey%20there&body=Hi,%20I'm%20">email</a></p>-->
         <a href='/assets/pdf/CV/CVen.pdf'>See my CV</a><br>
-
+        <!-- questa è la parte del footer, che è parte del body della sidebar, in modo che venga scritto incolonnato -->
         <footer>
         {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
@@ -43,11 +43,11 @@
         </footer>
       </header>
       </aside>
-        <main class="content">
+        <main class="content"> <!-- creo la classe content in cui metto tutti i post della pagina che scrivo in index.md -->
             {{ content }}
         </main>
       </div>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script> <!-- importo il file /assets/js/scale.fix.js , per evitare problemi con il touch del cellulare -->
   </body>
 </html>
