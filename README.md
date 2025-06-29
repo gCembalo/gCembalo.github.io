@@ -7,8 +7,3 @@ I use the *minimal theme* founded in [GitHub Theme](https://pages.github.com/the
 # License
 
 All the work in my page is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-<!-- SOME INSPIRATIONS I FOUND ONLINE -->
-<!-- https://davidemurari.com
-     https://academicpages.github.io    ;    https://github.com/academicpages/academicpages.github.io/tree/master
--->
