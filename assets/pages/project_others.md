@@ -26,3 +26,9 @@ I want collect some readings that I found usefull or interesting.
 I collect here all the links/pages that I found usefull (in some way).
 
 * [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
+
+## Some inspiration I found online to create this site
+
+* [https://davidemurari.com](https://davidemurari.com) <br>
+* [https://academicpages.github.io](https://academicpages.github.io) <br>
+* [https://github.com/academicpages/academicpages.github.io/tree/master](https://github.com/academicpages/academicpages.github.io/tree/master) <br>
