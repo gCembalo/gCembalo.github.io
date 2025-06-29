@@ -78,18 +78,18 @@ a.orderedlist:active {
 
 /* Layout responsive per schermi piccoli */
 @media (max-width: 768px) {
-  .layout-wrapper {
-    flex-direction: column; /* da righe a colonne */
-    padding: 0.5rem;
+  body, html {
+    height: auto;
   }
 
-  .sidebar {
-    padding-right: 0; /* rimuove spazio laterale */
-    margin-bottom: 1rem; /* spazio sotto la sidebar */
+  main {
+    min-height: 100vh;
+    padding-bottom: 100px; /* spazio per il footer */
   }
 
-  .content {
-    flex: unset;
+  footer {
+    position: relative !important;
+    bottom: auto !important;
   }
 }
 
