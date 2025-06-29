@@ -13,6 +13,8 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 <!--<hr>-->
 
+<div style="margin-left: 20px"> <!-- mi serve per modificare il margine e spostare leggermente i titoli delle sezioni -->
+
 ### [Lecture notes](/assets/pages/lecture_notes.html)
 
 ### [Exercises](/assets/pages/exercises.html)
@@ -27,6 +29,12 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 ### [Personal projects and other stuff](/assets/pages/project_others.md)
 
+</div>
+
 <hr>
 
+<div style="margin-left: 20px">
+
 #### [License Documentation](/assets/license/license.html)
+
+</div>
