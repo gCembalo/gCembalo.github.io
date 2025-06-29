@@ -13,11 +13,11 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 <!--<hr>-->
 
-### [Lecture notes](/assets/pages/lecture_notes.html)
+### [    Lecture notes](/assets/pages/lecture_notes.html)
 
-### [Exercises](/assets/pages/exercises.html)
+### [    Exercises](/assets/pages/exercises.html)
 
-### [Formulary](/assets/pages/formulary.html)
+### [    Formulary](/assets/pages/formulary.html)
 
 <!--### [Some interesting readings](/assets/pages/readings.html)
 
@@ -25,8 +25,8 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 ### [Something I found usefull](/assets/pages/something_usefull.html)-->
 
-### [Personal projects and other stuff](/assets/pages/project_others.md)
+### [    Personal projects and other stuff](/assets/pages/project_others.md)
 
 <hr>
 
-#### [License Documentation](/assets/license/license.html)
+#### [    License Documentation](/assets/license/license.html)
