@@ -82,12 +82,10 @@ a.orderedlist:active {
   body, html {
     height: auto;
   }
-
   main {
     min-height: 100vh;
     padding-bottom: 100px; /* spazio per il footer */
   }
-
   footer {
     position: relative !important;
     bottom: auto !important;
@@ -116,13 +114,11 @@ ul ul {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-
 /* Rimuove margine in basso dall’ultimo elemento */
 ul li:last-child {
   margin-bottom: 0;
   padding-bottom: 0;
 }
-
 /* Rimuove margine tra due sezioni successive */
 ul + ul,
 ul + p {
