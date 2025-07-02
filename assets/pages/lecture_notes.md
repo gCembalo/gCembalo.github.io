@@ -11,7 +11,7 @@ title: Lecture Notes
 
 <hr>
 
-I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other handwritten.
+I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other handwritten. I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability.
 
 ## LaTeX Notes
 
@@ -21,8 +21,6 @@ I collect in this Post all my lectures notes that I consider valid to share. The
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025) <br>
 
 ### Gems
-
-I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability.
 
 * [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf) (last update: 08/06/2025) <br>
 * [Special Relativity Gems (it)](/assets/pdf/lecture_notes/GRS.pdf) (last update: 02/07/2025) <br>
