@@ -3,7 +3,7 @@ layout: default
 title: EM and Special Relativity exercises
 ---
 
-[< Exercises](/assets/pdf/exercises/exercises.html)
+[< Exercises](/assets/pages/exercises.html)
 
 ## EM and Special Relativity exercises
 
