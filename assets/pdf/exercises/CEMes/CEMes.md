@@ -3,7 +3,7 @@ layout: default
 title: Classical EM exercises
 ---
 
-[< Exercises](/assets/pdf/exercises/exercises.html)
+[< Exercises](/assets/pages/exercises.html)
 
 ## Classical EM exercises
 
