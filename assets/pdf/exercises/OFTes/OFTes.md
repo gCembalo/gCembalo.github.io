@@ -3,7 +3,7 @@ layout: default
 title: Wave, fluids, TD exercises
 ---
 
-[< Exercises](/assets/pdf/exercises/exercises.html)
+[< Exercises](/assets/pages/exercises.html)
 
 ## Wave, fluids, TD exercises
 
