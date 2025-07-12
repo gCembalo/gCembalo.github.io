@@ -3,7 +3,7 @@ layout: default
 title: Classical Mechanics exercises
 ---
 
-[< Exercises](/assets/pdf/exercises/exercises.html)
+[< Exercises](/assets/pages/exercises.html)
 
 ## Classical Mechanics exercises
 
