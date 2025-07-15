@@ -19,6 +19,7 @@ I collect in this Post all my lectures notes that I consider valid to share. The
 * [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
 * [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/MQ2.pdf) (last update: 17/06/2025) <br>
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025) <br>
+* [Foundations to Quantum Field Theory (it)](/assets/pdf/lecture_notes/FQFT.pdf) (last update: 15/07/2025) <br>
 
 ### Gems
 
