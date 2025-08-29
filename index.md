@@ -19,14 +19,12 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 ### [Formulary](/assets/pages/formulary.html)
 
-<!--### [Some interesting readings](/assets/pages/readings.html)
-
 ### [Personal Project](assets/pages/personal_project.html)
 
-### [Something I found usefull](/assets/pages/something_usefull.html)-->
-
-### [Personal projects and other stuff](/assets/pages/project_others.html)
+### [Some interesting readings](/assets/pages/readings.html)
 
 <hr>
+
+#### [Some inspiration](/assets/pages/inspiration.html)
 
 #### [License Documentation](/assets/license/license.html)
