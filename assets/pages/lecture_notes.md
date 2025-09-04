@@ -23,6 +23,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025) <br>
 * [Foundations of Quantum Field Theory (it)](/assets/pdf/lecture_notes/FQFT.pdf) (last update: 15/07/2025) <br>
 * [Statistical Mechanics (it)](/assets/pdf/lecture_notes/MS.pdf) (last update: 16/07/2025) <br>
+* [Condensed Matter Physics (it)](/assets/pdf/lecture_notes/CM.pdf) (last update: 04/09/2025) <br>
 * [General Relativity (it)](/assets/pdf/lecture_notes/RG.pdf) (last update: 17/08/2025) <br>
 
 ### Gems
