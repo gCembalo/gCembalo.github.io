@@ -20,7 +20,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
 * [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
 * [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/MQ2.pdf) (last update: 17/06/2025) <br>
-* [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 12/06/2025) <br>
+* [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 06/09/2025) <br>
 * [Foundations of Quantum Field Theory (it)](/assets/pdf/lecture_notes/FQFT.pdf) (last update: 15/07/2025) <br>
 * [Statistical Mechanics (it)](/assets/pdf/lecture_notes/MS.pdf) (last update: 16/07/2025) <br>
 * [Condensed Matter Physics (it)](/assets/pdf/lecture_notes/CM.pdf) (last update: 04/09/2025) <br>
