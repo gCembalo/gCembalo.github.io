@@ -26,6 +26,8 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [Condensed Matter Physics (it)](/assets/pdf/lecture_notes/CM.pdf) (last update: 04/09/2025) <br>
 * [General Relativity (it)](/assets/pdf/lecture_notes/RG.pdf) (last update: 17/08/2025) <br>
 
+* [How to draw Feynman diagrams (en)](/assets/pdf/lecture_notes/Feynman.pdf) (last update: 06/09/2025) <br>
+
 ### Gems
 
 * [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf) (last update: 08/06/2025) <br>
