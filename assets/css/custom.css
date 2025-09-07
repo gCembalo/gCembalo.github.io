@@ -173,9 +173,9 @@ ul + p {
 }
 
 .notes-list li {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: space-between !important;
   margin: 0.6em 0;
   width: 100%;             /* occupa tutta la riga */
 }
