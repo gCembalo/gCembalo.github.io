@@ -17,7 +17,67 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 
 ## LaTeX Notes
 
-* [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
+# LaTeX Notes
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf)
+    </span>
+    <span class="date">(last update: 22/01/2024)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/QM1.pdf)
+    </span>
+    <span class="date">(last update: 08/06/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/QM2.pdf)
+    </span>
+    <span class="date">(last update: 17/06/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf)
+    </span>
+    <span class="date">(last update: 06/09/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Foundations of Quantum Field Theory (it)](/assets/pdf/lecture_notes/FQFT.pdf)
+    </span>
+    <span class="date">(last update: 15/07/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Statistical Mechanics (it)](/assets/pdf/lecture_notes/SM.pdf)
+    </span>
+    <span class="date">(last update: 16/07/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Condensed Matter Physics (it)](/assets/pdf/lecture_notes/CMP.pdf)
+    </span>
+    <span class="date">(last update: 04/09/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [General Relativity (it)](/assets/pdf/lecture_notes/GR.pdf)
+    </span>
+    <span class="date">(last update: 17/08/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [How to draw Feynman diagrams (en)](/assets/pdf/lecture_notes/Feynman.pdf)
+    </span>
+    <span class="date">(last update: 06/09/2025)</span>
+  </li>
+</ul>
+
+
+<!--* [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
 * [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
 * [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/MQ2.pdf) (last update: 17/06/2025) <br>
 * [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf) (last update: 06/09/2025) <br>
@@ -27,14 +87,56 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [General Relativity (it)](/assets/pdf/lecture_notes/RG.pdf) (last update: 17/08/2025) <br>
 
 * [How to draw Feynman diagrams (en)](/assets/pdf/lecture_notes/Feynman.pdf) (last update: 06/09/2025) <br>
-
+-->
 ### Gems
 
+# LaTeX Notes
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf)
+    </span>
+    <span class="date">(last update: 08/06/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      [Special Relativity Gems (it)](/assets/pdf/lecture_notes/GRS.pdf)
+    </span>
+    <span class="date">(last update: 02/07/2025)</span>
+  </li>
+</ul>
+
+<!--
 * [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf) (last update: 08/06/2025) <br>
 * [Special Relativity Gems (it)](/assets/pdf/lecture_notes/GRS.pdf) (last update: 02/07/2025) <br>
+-->
 
 ## Handwritten Notes
 
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      [Mathematical Methods for the Physics 2](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html)
+    </span>
+    <span class="date"></span>
+  </li>
+  <li>
+    <span class="title">
+      [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html)
+    </span>
+    <span class="date"></span>
+  </li>
+  <li>
+    <span class="title">
+      [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM/SM.html)
+    </span>
+    <span class="date"></span>
+  </li>
+</ul>
+
+<!--
 * [Mathematical Methods for the Physics 2](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html) <br>
 * [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html) <br>
 * [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM/SM.html) <br>
+-->
