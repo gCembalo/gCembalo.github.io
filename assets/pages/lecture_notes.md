@@ -20,60 +20,59 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 <ul class="notes-list">
   <li>
     <span class="title">
-      [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf)
+      <a href="/assets/pdf/lecture_notes/MMF2.pdf">Mathematical Methods for the Physics 2 (it)</a>
     </span>
     <span class="date">(last update: 22/01/2024)</span>
   </li>
   <li>
     <span class="title">
-      [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/QM1.pdf)
+      <a href="/assets/pdf/lecture_notes/MQ1.pdf">Quantum Mechanics 1 (it)</a>
     </span>
     <span class="date">(last update: 08/06/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Quantum Mechanics 2 (it)](/assets/pdf/lecture_notes/QM2.pdf)
+      <a href="/assets/pdf/lecture_notes/MQ2.pdf">Quantum Mechanics 2 (it)</a>
     </span>
     <span class="date">(last update: 17/06/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Introduction to Quantum Field Theory (it)](/assets/pdf/lecture_notes/IQFT.pdf)
+      <a href="/assets/pdf/lecture_notes/IQFT.pdf">Introduction to Quantum Field Theory (it)</a>
     </span>
     <span class="date">(last update: 06/09/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Foundations of Quantum Field Theory (it)](/assets/pdf/lecture_notes/FQFT.pdf)
+      <a href="/assets/pdf/lecture_notes/FQFT.pdf">Foundations of Quantum Field Theory (it)</a>
     </span>
     <span class="date">(last update: 15/07/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Statistical Mechanics (it)](/assets/pdf/lecture_notes/SM.pdf)
+      <a href="/assets/pdf/lecture_notes/SM.pdf">Statistical Mechanics (it)</a>
     </span>
     <span class="date">(last update: 16/07/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Condensed Matter Physics (it)](/assets/pdf/lecture_notes/CMP.pdf)
+      <a href="/assets/pdf/lecture_notes/CM.pdf">Condensed Matter Physics (it)</a>
     </span>
     <span class="date">(last update: 04/09/2025)</span>
   </li>
   <li>
     <span class="title">
-      [General Relativity (it)](/assets/pdf/lecture_notes/GR.pdf)
+      <a href="/assets/pdf/lecture_notes/GR.pdf">General Relativity (it)</a>
     </span>
     <span class="date">(last update: 17/08/2025)</span>
   </li>
   <li>
     <span class="title">
-      [How to draw Feynman diagrams (en)](/assets/pdf/lecture_notes/Feynman.pdf)
+      <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
     </span>
     <span class="date">(last update: 06/09/2025)</span>
   </li>
 </ul>
-
 
 <!--* [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
 * [Quantum Mechanics 1 (it)](/assets/pdf/lecture_notes/MQ1.pdf) (last update: 08/06/2025) <br>
@@ -91,13 +90,13 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 <ul class="notes-list">
   <li>
     <span class="title">
-      [Group Theory Gems (it)](/assets/pdf/lecture_notes/GG.pdf)
+      <a href="/assets/pdf/lecture_notes/GG.pdf">Group Theory Gems (it)</a>
     </span>
     <span class="date">(last update: 08/06/2025)</span>
   </li>
   <li>
     <span class="title">
-      [Special Relativity Gems (it)](/assets/pdf/lecture_notes/GRS.pdf)
+      <a href="/assets/pdf/lecture_notes/GRS.pdf">Special Relativity Gems (it)</a>
     </span>
     <span class="date">(last update: 02/07/2025)</span>
   </li>
@@ -113,19 +112,19 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 <ul class="notes-list">
   <li>
     <span class="title">
-      [Mathematical Methods for the Physics 2](/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html)
+      <a href="/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html">Mathematical Methods for the Physics 2</a>
     </span>
     <span class="date"></span>
   </li>
   <li>
     <span class="title">
-      [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html)
+      <a href="/assets/pdf/lecture_notes_unofficial/SM/SM.html">Quantum Mechanics 2</a>
     </span>
     <span class="date"></span>
   </li>
   <li>
     <span class="title">
-      [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM/SM.html)
+      <a href="/assets/pdf/lecture_notes_unofficial/SM/SM.html">Introduction to Solid State Physics</a>
     </span>
     <span class="date"></span>
   </li>
