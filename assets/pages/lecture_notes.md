@@ -50,7 +50,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/SM.pdf">Statistical Mechanics (it)</a>
+      <a href="/assets/pdf/lecture_notes/MS.pdf">Statistical Mechanics (it)</a>
     </span>
     <span class="date">(last update: 16/07/2025)</span>
   </li>
@@ -62,7 +62,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/GR.pdf">General Relativity (it)</a>
+      <a href="/assets/pdf/lecture_notes/RG.pdf">General Relativity (it)</a>
     </span>
     <span class="date">(last update: 17/08/2025)</span>
   </li>
