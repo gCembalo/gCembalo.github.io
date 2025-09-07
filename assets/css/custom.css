@@ -124,3 +124,30 @@ ul + ul,
 ul + p {
   margin-top: 0;
 }
+
+
+
+
+
+/* Parte per rendere incolonnate le varie parti delle pagine (vedi colonne titoli e last update nella pagina Lecture notes) */
+.notes-list {
+  list-style: none;
+  padding: 0;
+}
+
+.notes-list li {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.3em 0;
+}
+
+.notes-list .title {
+  color: green;
+  font-weight: 500;
+}
+
+.notes-list .date {
+  color: gray;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
