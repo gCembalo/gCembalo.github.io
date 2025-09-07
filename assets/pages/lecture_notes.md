@@ -66,13 +66,8 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(last update: 17/08/2025)</span>
   </li>
-  <li>
-    <span class="title">
-      <a href=""></a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
+</ul>
+<ul>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
     </span>
