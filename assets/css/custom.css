@@ -151,3 +151,15 @@ ul + p {
   font-size: 0.9em;
   white-space: nowrap;
 }
+
+/* Regole responsive per schermi stretti (sempre dei titoli e date incolonnate) */
+@media (max-width: 600px) {
+  .notes-list li {
+    flex-direction: column;   /* titolo sopra, data sotto */
+    align-items: flex-start;  /* allinea tutto a sinistra */
+  }
+
+  .notes-list .date {
+    margin-top: 0.2em;
+  }
+}
