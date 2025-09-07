@@ -17,8 +17,6 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 
 ## LaTeX Notes
 
-# LaTeX Notes
-
 <ul class="notes-list">
   <li>
     <span class="title">
@@ -89,8 +87,6 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [How to draw Feynman diagrams (en)](/assets/pdf/lecture_notes/Feynman.pdf) (last update: 06/09/2025) <br>
 -->
 ### Gems
-
-# LaTeX Notes
 
 <ul class="notes-list">
   <li>
