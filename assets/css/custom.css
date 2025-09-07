@@ -154,15 +154,15 @@ ul + p {
 
 /* Regole responsive per schermi stretti (sempre dei titoli e date incolonnate) */
 @media (max-width: 768px) {
-  .notes-list li {
+  /*.notes-list li {
     flex-direction: column !important;  /* forza il layout a colonna */
-    align-items: flex-start !important;
+    /*align-items: flex-start !important;
   }
 
   .notes-list .date {
     margin-left: 0 !important;
     margin-top: 0.3em;
-  }
+  }*/
 
   .notes-list {
   list-style: none;
