@@ -7,7 +7,7 @@ title: Some interesting readings
 
 # Some interesting readings
 
-I want collect in this part some readings that I found usefull or interesting (in some way).
+I want collect in this part some readings that I found useful or interesting (in some way).
 
 * [Memories of a Theoretical Physicist - J. Polchinski](https://arxiv.org/abs/1708.09093) <br>
 * [Notes for a brief history of quantum gravity - C. Rovelli](https://arxiv.org/abs/gr-qc/0006061v3) <br>
@@ -16,8 +16,8 @@ I want collect in this part some readings that I found usefull or interesting (i
 
 <hr>
 
-# Something I Found Usefull
+# Something I Found Useful
 
-I want collect in this part all the links/pages that I found usefull (in some way).
+I want collect in this part all the links/pages that I found useful (in some way).
 
 * [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
