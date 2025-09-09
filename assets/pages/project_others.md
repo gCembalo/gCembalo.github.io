@@ -7,7 +7,7 @@ title: Personal Project and other stuff
 
 # Personal Project and other stuff
 
-I collect in this Post all my personal project and some other things I found usefull.
+I collect in this Post all my personal project and some other things I found useful.
 
 ## Personal projects
 
@@ -15,15 +15,15 @@ I collect in this Post all my personal project and some other things I found use
 
 ## Some interesting readings
 
-I want collect some readings that I found usefull or interesting.
+I want collect some readings that I found useful or interesting.
 
 * [Memories of a Theoretical Physicist - J. Polchinski](https://arxiv.org/abs/1708.09093) <br>
 * [Notes for a brief history of quantum gravity - C. Rovelli](https://arxiv.org/abs/gr-qc/0006061v3) <br>
 * [What is Quantum Field Theory, and What Did We Think It Is? - S. Weinberg](https://arxiv.org/abs/hep-th/9702027v1) <br>
 
-## Something I Found Usefull
+## Something I Found Useful
 
-I collect here all the links/pages that I found usefull (in some way).
+I collect here all the links/pages that I found useful (in some way).
 
 * [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
 
