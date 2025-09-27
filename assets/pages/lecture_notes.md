@@ -36,6 +36,9 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(working on it) (last update: 17/06/2025)</span>
   </li>
+<\ul>
+        <!-- faccio un blocco a parte -->
+<ul>
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/IQFT.pdf">Introduction to Quantum Field Theory (it)</a>
@@ -56,9 +59,9 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/CM.pdf">Condensed Matter Physics (it)</a>
+      <a href="/assets/pdf/lecture_notes/COS.pdf">Cosmology (it)</a>
     </span>
-    <span class="date">(last update: 04/09/2025)</span>
+    <span class="date">(working on it) (last update: --/--/2025)</span>
   </li>
   <li>
     <span class="title">
@@ -66,8 +69,14 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(last update: 17/08/2025)</span>
   </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/CM.pdf">Condensed Matter Physics (it)</a>
+    </span>
+    <span class="date">(last update: 04/09/2025)</span>
+  </li>
 </ul>
-<!-- faccio un blocco a parte -->
+        <!-- faccio un blocco a parte -->
 <ul class="notes-list">
   <li>
     <span class="title">
