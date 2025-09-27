@@ -67,12 +67,19 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="date">(last update: 17/08/2025)</span>
   </li>
 </ul>
+<!-- faccio un blocco a parte -->
 <ul class="notes-list">
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
     </span>
     <span class="date">(last update: 06/09/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/ITIF.pdf">Introduction to Computer Techniques for Physics (it)</a>
+    </span>
+    <span class="date">(working on it) (last update: --/10/2025)</span>
   </li>
 </ul>
 
