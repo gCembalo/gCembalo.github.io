@@ -38,7 +38,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
 </ul>
 <!-- faccio un blocco a parte -->
-<ul>
+<ul class="notes-list">
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/IQFT.pdf">Introduction to Quantum Field Theory (it)</a>
