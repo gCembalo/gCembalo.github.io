@@ -36,7 +36,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(working on it) (last update: 17/06/2025)</span>
   </li>
-<\ul>
+</ul>
         <!-- faccio un blocco a parte -->
 <ul>
   <li>
