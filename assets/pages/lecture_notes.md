@@ -136,7 +136,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes_unofficial/SM/SM.html">Quantum Mechanics 2</a>
+      <a href="/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html">Quantum Mechanics 2</a>
     </span>
     <span class="date"></span>
   </li>
