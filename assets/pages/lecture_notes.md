@@ -88,7 +88,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/ITIF.pdf">Introduction to Computer Techniques for Physics (it)</a>
     </span>
-    <span class="date">(last update: --/10/2025)</span>
+    <span class="date">(last update: 30/09/2025)</span>
   </li>
 </ul>
 
