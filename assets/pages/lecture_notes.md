@@ -90,6 +90,12 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(last update: 30/09/2025)</span>
   </li>
+  <li>
+    <span class="title">
+      <a href="https://github.com/gCembalo/Algoritmi.git">Numerical Algorithms for the physics</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
+  </li>
 </ul>
 
 <!--* [Mathematical Methods for the Physics 2 (it)](/assets/pdf/lecture_notes/MMF2.pdf) (last update: 22/01/2024) <br>
