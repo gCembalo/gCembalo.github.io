@@ -7,10 +7,10 @@
 }
 
 .layout-wrapper a {
-  color: aqua !important;    /*green*/
+  color: SlateBlue !important;    /*green*/
 }
 .layout-wrapper a:hover {
-  color: LightSeaGreen !important;    /*darkgreen*/
+  color: MediumBlue !important;    /*darkgreen*/
 }
 
 /* Colonna sinistra: header */
@@ -25,10 +25,10 @@
 }
 /* Colori dei link */
 .sidebar a {
-  color: aqua !important;
+  color: SlateBlue !important;
 }
 .sidebar a:hover {
-  color: LightSeaGreen !important;
+  color: MediumBlue !important;
 }
 
 
@@ -38,10 +38,10 @@
 }
 /* Colori dei link */
 .content a {
-  color: aqua !important;
+  color: SlateBlue !important;
 }
 .content a:hover {
-  color: LightSeaGreen !important;
+  color: MediumBlue !important;
 }
 
 
@@ -56,17 +56,17 @@
 }
 /* Colori dei link */
 .sidebar footer a {
-  color: aqua !important;
+  color: SlateBlue !important;
 }
 .sidebar footer a:hover {
-  color: LightSeaGreen !important;
+  color: MediumBlue !important;
 }
 
 
 /* Sto targettando ESATTAMENTE il link con classe orderedlist */
 a.orderedlist:link,
 a.orderedlist:visited {
-  color: aqua !important;
+  color: SlateBlue !important;
 }
 a.orderedlist:hover,
 a.orderedlist:active {
@@ -142,7 +142,7 @@ ul + p {
 }
 
 .notes-list .title {
-  color: green;
+  color: SlateBlue;
   font-weight: 500;
 }
 
