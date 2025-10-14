@@ -7,10 +7,10 @@
 }
 
 .layout-wrapper a {
-  color: green !important;
+  color: aqua !important;    /*green*/
 }
 .layout-wrapper a:hover {
-  color: darkgreen !important;
+  color: LightSeaGreen !important;    /*darkgreen*/
 }
 
 /* Colonna sinistra: header */
@@ -25,10 +25,10 @@
 }
 /* Colori dei link */
 .sidebar a {
-  color: green !important;
+  color: aqua !important;
 }
 .sidebar a:hover {
-  color: darkgreen !important;
+  color: LightSeaGreen !important;
 }
 
 
@@ -38,10 +38,10 @@
 }
 /* Colori dei link */
 .content a {
-  color: green !important;
+  color: aqua !important;
 }
 .content a:hover {
-  color: darkgreen !important;
+  color: LightSeaGreen !important;
 }
 
 
@@ -56,21 +56,21 @@
 }
 /* Colori dei link */
 .sidebar footer a {
-  color: green !important;
+  color: aqua !important;
 }
 .sidebar footer a:hover {
-  color: darkgreen !important;
+  color: LightSeaGreen !important;
 }
 
 
 /* Sto targettando ESATTAMENTE il link con classe orderedlist */
 a.orderedlist:link,
 a.orderedlist:visited {
-  color: green !important;
+  color: aqua !important;
 }
 a.orderedlist:hover,
 a.orderedlist:active {
-  color: darkgreen !important;
+  color: LightSeaGreen !important;
 }
 
 
