@@ -80,6 +80,12 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 <ul class="notes-list">
   <li>
     <span class="title">
+      <a href="https://github.com/gCembalo/Algoritmi.git">Numerical Algorithms for the physics</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
+  </li>
+  <li>
+    <span class="title">
       <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
     </span>
     <span class="date">(last update: 06/09/2025)</span>
@@ -89,12 +95,6 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
       <a href="/assets/pdf/lecture_notes/ITIF.pdf">Introduction to Computer Techniques for Physics (it)</a>
     </span>
     <span class="date">(last update: 30/09/2025)</span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="https://github.com/gCembalo/Algoritmi.git">Numerical Algorithms for the physics</a>
-    </span>
-    <span class="date">(GitHub Repository)</span>
   </li>
 </ul>
 
