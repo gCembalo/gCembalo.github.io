@@ -116,13 +116,13 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/GG.pdf">Group Theory Gems (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 08/06/2025)</span>
+    <span class="date">(last update: 29/10/2025)</span>
   </li>
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/GRS.pdf">Special Relativity Gems (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 02/07/2025)</span>
+    <span class="date">(last update: 02/07/2025)</span>
   </li>
 </ul>
 
