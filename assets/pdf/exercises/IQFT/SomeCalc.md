@@ -1,1 +1,0 @@
-IQFT/SomeCalc.pdf
