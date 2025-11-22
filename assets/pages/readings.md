@@ -23,3 +23,4 @@ I want collect in this part all the links/pages that I found useful (in some way
 
 * [How (not) to write a thesis](https://users.dimi.uniud.it/~stefano.mizzaro/dida/come-non-scrivere-la-tesi.html) <br>
 * [Metodo a strati Fridrich semplificato (cubo di Rubik)](http://www.bandb-rome.it/cubomagico/strati_fridrich_semplificato.html) <br>
+* [Tutorial for a LaTeX CV](https://www.youtube.com/watch?v=RyhQk8IoRV0) <br>
