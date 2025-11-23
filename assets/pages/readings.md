@@ -7,7 +7,7 @@ title: Some interesting things
 
 # Some interesting things
 
-I want collect in this part some readings that I found useful or interesting (in some way).
+I want collect in this part some things that I found useful or interesting (in some way).
 
 ## Paper
 
