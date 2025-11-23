@@ -1,19 +1,25 @@
 ---
 layout: default
-title: Some interesting readings
+title: Some interesting things
 ---
 
 <!--[< Home](/index.html)-->
 
-# Some interesting readings
+# Some interesting things
 
 I want collect in this part some readings that I found useful or interesting (in some way).
+
+## Paper
 
 * [Memories of a Theoretical Physicist - J. Polchinski](https://arxiv.org/abs/1708.09093) <br>
 * [Joseph Polchinski: A Biographical Memoir - R. Bousso, F. Quevedo, S. Weinberg](https://arxiv.org/abs/2002.02371v2) <br>
 * [Notes for a brief history of quantum gravity - C. Rovelli](https://arxiv.org/abs/gr-qc/0006061v3) <br>
 * [What is Quantum Field Theory, and What Did We Think It Is? - S. Weinberg](https://arxiv.org/abs/hep-th/9702027v1) <br>
 * [P.A.M. Dirac and the Discovery of Quantum Mechanics - K. Gottfried](https://arxiv.org/abs/quant-ph/0302041v1) <br>
+
+## Podcast
+
+* [Fisica, Scuola e Filosofia - con Gianluca Introzzi - SBS Podcast](https://www.youtube.com/watch?v=s_8h5gdHe24&list=LL&index=22) <br>
 
 <hr>
 
