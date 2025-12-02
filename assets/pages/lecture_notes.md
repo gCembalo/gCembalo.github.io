@@ -165,3 +165,15 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 * [Quantum Mechanics 2](/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html) <br>
 * [Introduction to Solid State Physics](/assets/pdf/lecture_notes_unofficial/SM/SM.html) <br>
 -->
+
+## LaTeX Template
+
+
+<ul class="template">
+  <li>
+    <span class="title">
+      <a href="https://github.com/gCembalo/LaTeX_Template.git">LaTeX Template</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
+  </li>
+</ul>
