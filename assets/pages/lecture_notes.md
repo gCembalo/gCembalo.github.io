@@ -52,7 +52,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/IQFT.pdf">Introduction to Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 16/11/2025)</span>
+    <span class="date">(last update: 03/12/2025)</span>
   </li>
   <li>
     <span class="title">
@@ -109,7 +109,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/CompIQFT.pdf">Complements to Introduction to Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 15/11/2025)</span>
+    <span class="date">(last update: 03/12/2025)</span>
   </li>
 </ul>
 
