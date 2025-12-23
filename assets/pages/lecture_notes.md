@@ -111,6 +111,12 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(last update: 03/12/2025)</span>
   </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/CompFQFT.pdf">Complements to Foundation of Quantum Field Theory (it)</a>
+    </span>
+    <span class="date">(working on it) (last update: 23/12/2025)</span>
+  </li>
 </ul>
 
 ### Gems
