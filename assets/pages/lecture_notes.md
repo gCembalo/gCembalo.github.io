@@ -64,7 +64,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/MS.pdf">Statistical Mechanics (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 16/07/2025)</span>
+    <span class="date">(working on it) (last update: 24/12/2025)</span>
   </li>
   <li>
     <span class="title">
