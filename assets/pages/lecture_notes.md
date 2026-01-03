@@ -61,7 +61,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="date">(working on it) (last update: 15/07/2025)</span>
         <li>
         <span class="title">
-          <a href="/assets/pdf/exercises/FQFT/FQFT_References.pdf">       References of FQFT (it)</a>
+          <a href="/assets/pdf/exercises/FQFT/FQFT_References.pdf">&nbsp;&nbsp;References of FQFT (it)</a>
         </span>
         <span class="date">(working on it) (last update: 03/01/2026)</span>
       </li>
