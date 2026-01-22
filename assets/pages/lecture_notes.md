@@ -58,7 +58,7 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="title">
       <a href="/assets/pdf/lecture_notes/FQFT.pdf">Foundations of Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 20/01/2026)</span>
+    <span class="date">(working on it) (last update: 23/01/2026)</span>
   </li>
   <li>
     <span class="title">
