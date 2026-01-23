@@ -93,12 +93,12 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     </span>
     <span class="date">(GitHub Repository)</span>
   </li>
-<!--  <li>
+  <li>
     <span class="title">
       <a href="https://github.com/gCembalo/Particles_in_EM_Fields.git">(Exam Project) Numerical Algorithms for the physics</a>
     </span>
     <span class="date">(GitHub Repository)</span>
-  </li>-->
+  </li>
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
