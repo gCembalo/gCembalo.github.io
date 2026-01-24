@@ -26,9 +26,13 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
 
 ## LaTeX Notes
 
-### Quantum Mechanics
-
 <ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/MMF2.pdf">Mathematical Methods for the Physics 2 (it)</a>
+    </span>
+    <span class="date">(last update: 22/01/2024)</span>
+  </li>
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/MQ1.pdf">Quantum Mechanics 1 (it)</a>
@@ -42,19 +46,11 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="date">(working on it) (last update: 17/06/2025)</span>
   </li>
 </ul>
-
-### Quantum Field Theory
-
+<!-- faccio un blocco a parte -->
 <ul class="notes-list">
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/IQFT.pdf">Introduction to Quantum Field Theory (it)</a>
-    </span>
-    <span class="date">(last update: 03/12/2025)</span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/CompIQFT.pdf">Complements to Introduction to Quantum Field Theory (it)</a>
     </span>
     <span class="date">(last update: 03/12/2025)</span>
   </li>
@@ -66,37 +62,9 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/CompFQFT.pdf">Complements to Foundation of Quantum Field Theory (it)</a>
+      <a href="/assets/pdf/lecture_notes/MS.pdf">Statistical Mechanics (it)</a>
     </span>
-    <span class="date">(last update: 20/01/2026)</span>
-  </li>
-</ul>
-
-### Mathematical Methods for the Physics
-
-<ul class="notes-list">
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/GG.pdf">Group Theory Gems (it)</a>
-    </span>
-    <span class="date">(last update: 29/10/2025)</span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/MMF2.pdf">Mathematical Methods for the Physics 2 (it)</a>
-    </span>
-    <span class="date">(last update: 22/01/2024)</span>
-  </li>
-</ul>
-
-### Gravitation and Cosmology
-
-<ul class="notes-list">
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/RG.pdf">General Relativity (it)</a>
-    </span>
-    <span class="date">(last update: 17/08/2025)</span>
+    <span class="date">(last update: 19/01/2026)</span>
   </li>
   <li>
     <span class="title">
@@ -106,20 +74,9 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/GRS.pdf">Special Relativity Gems (it)</a>
+      <a href="/assets/pdf/lecture_notes/RG.pdf">General Relativity (it)</a>
     </span>
-    <span class="date">(last update: 02/07/2025)</span>
-  </li>
-</ul>
-
-### Statistical and Condensed Matter Physics
-
-<ul class="notes-list">
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/MS.pdf">Statistical Mechanics (it)</a>
-    </span>
-    <span class="date">(last update: 19/01/2026)</span>
+    <span class="date">(last update: 17/08/2025)</span>
   </li>
   <li>
     <span class="title">
@@ -128,10 +85,20 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
     <span class="date">(last update: 04/09/2025)</span>
   </li>
 </ul>
-
-### Programming (ish)
-
+<!-- faccio un blocco a parte -->
 <ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="https://github.com/gCembalo/Algoritmi.git">Numerical Algorithms for the physics</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="https://github.com/gCembalo/Particles_in_EM_Fields.git">(Exam Project) Numerical Algorithms for the physics</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
+  </li>
   <li>
     <span class="title">
       <a href="/assets/pdf/lecture_notes/Feynman.pdf">How to draw Feynman diagrams (en)</a>
@@ -146,15 +113,32 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
   </li>
   <li>
     <span class="title">
-      <a href="https://github.com/gCembalo/Algoritmi.git">Numerical Algorithms for the physics</a>
+      <a href="/assets/pdf/lecture_notes/CompIQFT.pdf">Complements to Introduction to Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(GitHub Repository)</span>
+    <span class="date">(last update: 03/12/2025)</span>
   </li>
   <li>
     <span class="title">
-      <a href="https://github.com/gCembalo/Particles_in_EM_Fields.git">Numerical Algorithms for the physics (Exam Project)</a>
+      <a href="/assets/pdf/lecture_notes/CompFQFT.pdf">Complements to Foundation of Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(GitHub Repository)</span>
+    <span class="date">(last update: 20/01/2026)</span>
+  </li>
+</ul>
+
+### Gems
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/GG.pdf">Group Theory Gems (it)</a>
+    </span>
+    <span class="date">(last update: 29/10/2025)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/GRS.pdf">Special Relativity Gems (it)</a>
+    </span>
+    <span class="date">(last update: 02/07/2025)</span>
   </li>
 </ul>
 
