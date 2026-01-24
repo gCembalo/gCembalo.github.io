@@ -136,7 +136,7 @@ ul + p {
 }
 
 .notes-list li {
-  /*display: flex;*/
+  display: flex;
   justify-content: space-between;
   margin: 0.3em 0;
   list-style-type: none; /* Rimuove il pallino se non lo vuoi */
