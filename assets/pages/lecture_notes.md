@@ -11,7 +11,7 @@ title: Lecture Notes
 
 <hr>
 
-I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other [handwritten](/assets/pages/handNotes.md). I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template. <br>
+I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other [handwritten](/assets/pages/handNotes.html). I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template. <br>
 
 <ul class="notes-list">
   <li>

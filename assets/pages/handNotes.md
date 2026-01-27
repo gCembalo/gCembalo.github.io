@@ -9,7 +9,7 @@ title: HandLecture Notes
 
 <hr>
 
-In this post, I’ve collected all the lecture notes I believe are worth sharing. Some are written in LaTeX and can be found [here](/assets/pages/lecture_notes.md), while others are handwritten (see below).
+In this post, I’ve collected all the lecture notes I believe are worth sharing. Some are written in LaTeX and can be found [here](/assets/pages/lecture_notes.html), while others are handwritten (see below).
 
 <ul class="notes-list">
   <li>
