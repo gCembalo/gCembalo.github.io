@@ -11,7 +11,7 @@ title: Lecture Notes
 
 <hr>
 
-I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other handwritten. I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template. <br>
+I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other handwritten, that you can find [here](/assets/pages/hand_notes.md). I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template. <br>
 
 <ul class="notes-list">
   <li>
@@ -23,6 +23,10 @@ I collect in this Post all my lectures notes that I consider valid to share. The
 </ul>
 
 You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teorica.pdf), and all the references (suggested by the respective professor) for all the courses that I attend [here](/assets/pdf/lecture_notes/references_teorica.pdf).
+
+<hr>
+
+You can find [here](/assets/pages/exercises.md) a collection of all materials related to exercises and worked examples.
 
 ## LaTeX Notes
 
@@ -155,28 +159,5 @@ You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teo
       <a href="https://github.com/gCembalo/Particles_in_EM_Fields.git">Numerical Algorithms for the physics (Exam Project)</a>
     </span>
     <span class="date">(GitHub Repository)</span>
-  </li>
-</ul>
-
-## Handwritten Notes
-
-<ul class="notes-list">
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes_unofficial/MMF2/MMF2.html">Mathematical Methods for the Physics 2</a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes_unofficial/MQ2/MQ2.html">Quantum Mechanics 2</a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes_unofficial/SM/SM.html">Introduction to Solid State Physics</a>
-    </span>
-    <span class="date"></span>
   </li>
 </ul>
