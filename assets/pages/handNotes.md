@@ -1,9 +1,13 @@
 ---
 layout: default
-title: Hand Lecture Notes
+title: HandLecture Notes
 ---
 
 # Handwritten Lecture notes
+
+*Important*: See the [License and Disclaimer](/assets/license/license.html) section for terms of use.
+
+<hr>
 
 In this post, I’ve collected all the lecture notes I believe are worth sharing. Some are written in LaTeX and can be found [here](/assets/pages/lecture_notes.md), while others are handwritten (see below).
 
