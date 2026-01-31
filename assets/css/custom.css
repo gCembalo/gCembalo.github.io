@@ -83,7 +83,7 @@ html, body {
   .sidebar footer {
     order: 3; /* Ora che la sidebar è 'contents', questo footer va dopo .content */
     display: block;
-    text-align: center;
+    text-align: left;
     margin-top: 5rem !important; /* Spazio netto dopo il contenuto */
     padding: 2rem 0;
     width: 100%;
@@ -92,7 +92,7 @@ html, body {
 
   .notes-list li {
     flex-direction: column !important;
-    align-items: center !important;
+    align-items: left !important;
     margin-left: 0;
   }
 }
