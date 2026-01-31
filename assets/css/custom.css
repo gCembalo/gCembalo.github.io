@@ -44,21 +44,6 @@ html, body {
   margin-bottom: 1.5rem;
 }
 
-/* --- TITOLI (Nuovo Stile) --- */
-.sidebar h1 {
-  font-size: 1.8rem;
-  color: rgb(255, 166, 1);
-  margin-bottom: 0.8rem;
-}
-
-.content h3 {
-  font-size: 1.4rem;
-  color: #2c3e50;
-  border-left: 4px solid rgb(255, 166, 1); /* Barretta verticale elegante */
-  padding-left: 15px;
-  margin: 2.5rem 0 1.2rem 0;
-}
-
 /* --- FOOTER (Posizionamento Corretto) --- */
 .sidebar footer {
   margin-top: 2rem; /* Spazio dalla descrizione sidebar */
