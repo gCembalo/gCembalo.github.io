@@ -39,19 +39,6 @@ html, body {
   margin-bottom: 1.5rem;
 }
 
-.sidebar h1 {
-  font-size: 1.8rem;
-  color: rgb(255, 166, 1);
-}
-
-.content h3 {
-  font-size: 1.4rem;
-  color: #2c3e50;
-  border-left: 4px solid rgb(255, 166, 1);
-  padding-left: 15px;
-  margin: 2.5rem 0 1.2rem 0;
-}
-
 /* --- FOOTER DESKTOP --- */
 .sidebar footer {
   margin-top: auto; /* Spinge giù su desktop */
@@ -73,17 +60,16 @@ html, body {
   }
 
   /* Ora assegniamo l'ordine ai singoli elementi figli della sidebar e del content */
-  .sidebar h1, 
   .sidebar img, 
   .sidebar p,
   .sidebar .view-profile { 
     order: 1; 
-    text-align: center;
+    text-align: left;
   }
   
   /* L'immagine deve essere centrata e piccola */
   .sidebar img {
-    max-width: 130px !important;
+    max-width: 140px !important;
     margin: 0 auto 1rem auto !important;
     display: block;
   }
