@@ -8,11 +8,12 @@ html, body {
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
 .layout-wrapper {
   display: flex;
-  width: 100%;          /* Occupa tutto lo spazio disponibile */
+  width: 100%;
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 2rem auto; /* Aumentato il margine superiore e inferiore */
   padding: 1rem;
-  box-sizing: border-box; /* Fondamentale: include padding nel calcolo della larghezza */
+  box-sizing: border-box;
+  align-items: flex-start; /* Assicura che partano dall'alto correttamente */
 }
 
 .layout-wrapper a {
@@ -117,18 +118,30 @@ a.orderedlist:active {
 */
 @media (max-width: 768px) {
   .layout-wrapper {
-    flex-direction: column; /* Impila sidebar sopra content */
+    flex-direction: column; 
+    margin-top: 1rem;
   }
 
   .sidebar {
     padding-right: 0;
-    margin-bottom: 2rem;   /* Crea spazio prima dell'inizio delle note */
-    text-align: center;    /* Opzionale: centra il testo su mobile */
+    margin-bottom: 0; /* Rimuoviamo il margine per unire visivamente */
+    flex: none;
+    width: 100%;
+    text-align: center;
   }
 
+  /* Spostiamo il footer della sidebar dopo il contenuto */
   .sidebar footer {
-    margin-top: 1rem;
-    text-align: center;    /* Centra il copyright su mobile */
+    order: 3; /* Se usi flex sul wrapper principale, questo lo sposta in fondo */
+    margin-top: 2rem;
+    padding: 2rem 0;
+    border-top: 1px solid #eee; /* Opzionale: un separatore visivo */
+    text-align: center;
+  }
+
+  .content {
+    order: 2; /* Il contenuto viene dopo l'header della sidebar */
+    width: 100%;
   }
 }
 
