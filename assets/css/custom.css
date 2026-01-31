@@ -4,14 +4,18 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Forza il body a coprire tutta l'altezza dello schermo */
 }
 
 /* --- LAYOUT PRINCIPALE (DESKTOP) --- */
 .layout-wrapper {
   display: flex;
+  flex: 1; /* Permette al wrapper di espandersi e spingere il footer giù */
+  width: 100%;
   max-width: 1000px;
-  margin: 40px auto; /* Margine superiore ripristinato */
+  margin: 60px auto; /* Più spazio sopra a pagina intera */
   padding: 0 1rem;
   box-sizing: border-box;
   align-items: flex-start;
@@ -22,11 +26,13 @@ html, body {
   flex: 1;
   flex-direction: column;
   padding-right: 2rem;
-  min-height: 500px; /* Aiuta a tenere il footer separato su desktop */
+  position: sticky; /* La sidebar resta visibile mentre scorri su desktop */
+  top: 60px;
 }
 
 .content {
   flex: 2;
+  margin-bottom: 40px;
 }
 
 /* --- LOGO / IMMAGINE SIDEBAR --- */
@@ -38,100 +44,82 @@ html, body {
   margin-bottom: 1.5rem;
 }
 
-/* --- FOOTER (DESKTOP) --- */
+/* --- TITOLI (Nuovo Stile) --- */
+.sidebar h1 {
+  font-size: 1.8rem;
+  color: rgb(255, 166, 1);
+  margin-bottom: 0.8rem;
+}
+
+.content h3 {
+  font-size: 1.4rem;
+  color: #2c3e50;
+  border-left: 4px solid rgb(255, 166, 1); /* Barretta verticale elegante */
+  padding-left: 15px;
+  margin: 2.5rem 0 1.2rem 0;
+}
+
+/* --- FOOTER (Posizionamento Corretto) --- */
 .sidebar footer {
-  margin-top: auto; /* Spinge il footer in basso nella sidebar su desktop */
+  margin-top: 2rem; /* Spazio dalla descrizione sidebar */
   padding: 2rem 0;
-  text-align: left;
-  border-top: 1px solid #eeeeee;
+  border-top: 1px solid #eee;
 }
 
-/* --- COLORI LINK E STILI --- */
-.layout-wrapper a, .sidebar a, .content a, .sidebar footer a {
-  color: rgb(255, 166, 1) !important;
-  text-decoration: none;
-}
+/* --- COLORI LINK --- */
+.layout-wrapper a { color: rgb(255, 166, 1) !important; text-decoration: none; }
+.layout-wrapper a:hover { color: rgb(255, 123, 0) !important; }
 
-.layout-wrapper a:hover, .sidebar a:hover, .content a:hover, .sidebar footer a:hover {
-  color: rgb(255, 123, 0) !important;
-}
-
-a.orderedlist:link, a.orderedlist:visited { color: rgb(255, 166, 1) !important; }
-a.orderedlist:hover, a.orderedlist:active { color: rgb(255, 123, 0) !important; }
-
-/* --- LISTE E SPAZIATURA --- */
-.notes-list {
-  list-style: none;
-  padding: 0;
-}
-
+/* --- LISTE --- */
+.notes-list { list-style: none; padding: 0; }
 .notes-list li {
   display: flex;
   justify-content: space-between;
-  margin: 0.5em 0 0.5em 30px;
+  margin: 0.6em 0 0.6em 20px;
 }
-
 .notes-list .date {
   color: rgba(128, 128, 128, 0.76);
   font-size: 0.9em;
-  white-space: nowrap;
 }
 
-ul ul, ul li:last-child { margin-bottom: 0; padding-bottom: 0; }
-ul + ul, ul + p { margin-top: 0; }
-
-/* --- VERSIONE MOBILE E SCHERMI RISTRETTI --- */
+/* --- VERSIONE MOBILE (RISOLUZIONE FOOTER) --- */
 @media (max-width: 768px) {
   .layout-wrapper {
     flex-direction: column;
     margin-top: 20px;
   }
 
-  /* Riorganizzazione ordine: Sidebar(1) -> Content(2) -> Footer(3) */
   .sidebar {
-    display: flex;
-    flex-direction: column;
-    padding-right: 0;
-    text-align: center;
+    position: static;
     order: 1;
-    min-height: auto;
+    text-align: center;
+    padding-right: 0;
+    width: 100%;
+  }
+
+  /* Rimpicciolisce la formula di Dirac */
+  .sidebar img, header img {
+    max-width: 180px !important;
+    margin: 0 auto 1.5rem auto;
   }
 
   .content {
-    width: 100%;
     order: 2;
+    width: 100%;
     margin-top: 2rem;
   }
 
+  /* FORZA IL FOOTER A FINE PAGINA */
   .sidebar footer {
-    order: 3;
+    order: 3; /* Sposta il footer dopo il contenuto */
+    margin-top: 4rem; /* Spazio generoso dopo le note */
     text-align: center;
-    margin-top: 3rem;
-    padding: 1.5rem 0;
     width: 100%;
   }
 
-  /* Immagine piccola su mobile */
-  .sidebar img, header img {
-    max-width: 150px !important;
-    margin: 0 auto 1rem auto;
-  }
-
-  /* Liste su mobile */
   .notes-list li {
     flex-direction: column !important;
     align-items: center !important;
     margin-left: 0;
-    text-align: center;
-  }
-
-  .notes-list .date {
-    margin-top: 0.2rem;
-    white-space: normal;
-  }
-
-  a {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
   }
 }
