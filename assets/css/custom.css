@@ -4,102 +4,104 @@ html, body {
   width: 100%;
   margin: 0;
   padding: 0;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
-  min-height: 100vh; /* Forza il body a coprire tutta l'altezza dello schermo */
 }
 
-/* --- LAYOUT PRINCIPALE (DESKTOP) --- */
+/* --- LAYOUT PRINCIPALE --- */
 .layout-wrapper {
   display: flex;
-  flex: 1; /* Permette al wrapper di espandersi e spingere il footer giù */
+  flex: 1;
   width: 100%;
   max-width: 1000px;
-  margin: 60px auto; /* Più spazio sopra a pagina intera */
+  margin: 50px auto; 
   padding: 0 1rem;
   box-sizing: border-box;
-  align-items: flex-start;
 }
 
 .sidebar {
-  display: flex;
   flex: 1;
+  display: flex;
   flex-direction: column;
   padding-right: 2rem;
-  position: sticky; /* La sidebar resta visibile mentre scorri su desktop */
-  top: 60px;
 }
 
 .content {
   flex: 2;
-  margin-bottom: 40px;
 }
 
-/* --- LOGO / IMMAGINE SIDEBAR --- */
+/* --- LOGO E TITOLI --- */
 .sidebar img, header img {
   max-width: 250px;
   width: 100%;
   height: auto;
-  display: block;
   margin-bottom: 1.5rem;
 }
 
-/* --- FOOTER (Posizionamento Corretto) --- */
+.sidebar h1 {
+  font-size: 1.8rem;
+  color: rgb(255, 166, 1);
+}
+
+.content h3 {
+  font-size: 1.4rem;
+  color: #2c3e50;
+  border-left: 4px solid rgb(255, 166, 1);
+  padding-left: 15px;
+  margin: 2.5rem 0 1.2rem 0;
+}
+
+/* --- FOOTER DESKTOP --- */
 .sidebar footer {
-  margin-top: 2rem; /* Spazio dalla descrizione sidebar */
+  margin-top: auto; /* Spinge giù su desktop */
   padding: 2rem 0;
   border-top: 1px solid #eee;
 }
 
-/* --- COLORI LINK --- */
-.layout-wrapper a { color: rgb(255, 166, 1) !important; text-decoration: none; }
-.layout-wrapper a:hover { color: rgb(255, 123, 0) !important; }
-
-/* --- LISTE --- */
-.notes-list { list-style: none; padding: 0; }
-.notes-list li {
-  display: flex;
-  justify-content: space-between;
-  margin: 0.6em 0 0.6em 20px;
-}
-.notes-list .date {
-  color: rgba(128, 128, 128, 0.76);
-  font-size: 0.9em;
-}
-
-/* --- VERSIONE MOBILE (RISOLUZIONE FOOTER) --- */
+/* --- VERSIONE MOBILE (RISOLUTIVA) --- */
 @media (max-width: 768px) {
   .layout-wrapper {
     flex-direction: column;
     margin-top: 20px;
+    display: flex !important;
   }
 
   .sidebar {
-    position: static;
-    order: 1;
-    text-align: center;
-    padding-right: 0;
-    width: 100%;
+    /* Fondamentale: dissolve il contenitore sidebar nel wrapper */
+    display: contents; 
   }
 
-  /* Rimpicciolisce la formula di Dirac */
-  .sidebar img, header img {
-    max-width: 180px !important;
-    margin: 0 auto 1.5rem auto;
+  /* Ora assegniamo l'ordine ai singoli elementi figli della sidebar e del content */
+  .sidebar h1, 
+  .sidebar img, 
+  .sidebar p,
+  .sidebar .view-profile { 
+    order: 1; 
+    text-align: center;
+  }
+  
+  /* L'immagine deve essere centrata e piccola */
+  .sidebar img {
+    max-width: 130px !important;
+    margin: 0 auto 1rem auto !important;
+    display: block;
   }
 
   .content {
     order: 2;
     width: 100%;
-    margin-top: 2rem;
+    margin-top: 3rem;
   }
 
-  /* FORZA IL FOOTER A FINE PAGINA */
   .sidebar footer {
-    order: 3; /* Sposta il footer dopo il contenuto */
-    margin-top: 4rem; /* Spazio generoso dopo le note */
+    order: 3; /* Ora che la sidebar è 'contents', questo footer va dopo .content */
+    display: block;
     text-align: center;
+    margin-top: 5rem !important; /* Spazio netto dopo il contenuto */
+    padding: 2rem 0;
     width: 100%;
+    border-top: 1px solid #eee;
   }
 
   .notes-list li {
@@ -108,3 +110,9 @@ html, body {
     margin-left: 0;
   }
 }
+
+/* --- COLORI E LISTE (Standard) --- */
+.layout-wrapper a { color: rgb(255, 166, 1) !important; text-decoration: none; }
+.notes-list { list-style: none; padding: 0; }
+.notes-list li { display: flex; justify-content: space-between; margin: 0.6em 0 0.6em 20px; }
+.notes-list .date { color: rgba(128, 128, 128, 0.76); font-size: 0.9em; }
