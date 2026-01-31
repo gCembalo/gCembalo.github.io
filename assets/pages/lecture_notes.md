@@ -24,7 +24,7 @@ I collect in this Post all my lectures notes that I consider valid to share. The
 
 You can see the CV of my MSc in Theoretical Physics [here](/assets/pdf/CV/CV_teorica.pdf), and all the references (suggested by the respective professor) for all the courses that I attend [here](/assets/pdf/lecture_notes/references_teorica.pdf).
 
-You can find [here](/assets/pages/exercises.md) a collection of all materials related to exercises and worked examples.
+You can find [here](/assets/pages/exercises.html) a collection of all materials related to exercises and worked examples.
 
 <hr>
 

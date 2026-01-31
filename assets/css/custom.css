@@ -1,9 +1,18 @@
+html, body {
+  overflow-x: hidden; /* Impedisce lo scroll orizzontale */
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
 .layout-wrapper {
   display: flex;
+  width: 100%;          /* Occupa tutto lo spazio disponibile */
   max-width: 1000px;
   margin: 0 auto;
   padding: 1rem;
+  box-sizing: border-box; /* Fondamentale: include padding nel calcolo della larghezza */
 }
 
 .layout-wrapper a {
@@ -78,14 +87,14 @@ a.orderedlist:active {
 
 /* Layout responsive per schermi piccoli */
 /* Questi tre pezzi rendono la versione mobile identica a quella desktop (l'ho usarta perché avevo problemi con il footer) */
-@media (max-width: 768px) {
+/*@media (max-width: 768px) {
   body, html {
     height: auto;
   }
   main {
     min-height: 100vh;
     padding-bottom: 100px; /* spazio per il footer */
-  }
+  /*}
   footer {
     position: relative !important;
     bottom: auto !important;
@@ -106,6 +115,22 @@ a.orderedlist:active {
   }
 }
 */
+@media (max-width: 768px) {
+  .layout-wrapper {
+    flex-direction: column; /* Impila sidebar sopra content */
+  }
+
+  .sidebar {
+    padding-right: 0;
+    margin-bottom: 2rem;   /* Crea spazio prima dell'inizio delle note */
+    text-align: center;    /* Opzionale: centra il testo su mobile */
+  }
+
+  .sidebar footer {
+    margin-top: 1rem;
+    text-align: center;    /* Centra il copyright su mobile */
+  }
+}
 
 
 /* Questa parte mi serve per aggiustare lo spazio tra le righe degli itemize */
@@ -125,7 +150,24 @@ ul + p {
   margin-top: 0;
 }
 
+@media (max-width: 768px) {
+  .notes-list li {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+    margin-left: 10px; /* Riduci l'indentazione su schermi piccoli */
+  }
 
+  .notes-list .date {
+    margin-top: 0.2rem;
+    white-space: normal; /* Permette alla data di andare a capo se il titolo è lungo */
+  }
+  
+  /* Evita che link lunghi rompano il layout */
+  a {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+}
 
 
 
