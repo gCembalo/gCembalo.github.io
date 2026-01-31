@@ -1,204 +1,65 @@
+/* --- IMPOSTAZIONI GLOBALI --- */
 html, body {
-  overflow-x: hidden; /* Impedisce lo scroll orizzontale */
+  overflow-x: hidden;
   width: 100%;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
-/* Selettore tipico per il logo nel tema Minimal */
-.sidebar img, 
-header img {
-  max-width: 250px; /* Limite massimo su desktop */
-  width: 100%;      /* Si adatta se il contenitore è più piccolo */
-  height: auto;
-  display: block;
-  margin-bottom: 1rem;
-}
-
-@media (max-width: 768px) {
-  .sidebar img, 
-  header img {
-    max-width: 180px; /* Più piccolo a metà schermo/mobile */
-    margin: 0 auto 1rem auto; /* Centrato orizzontalmente */
-  }
-}
-
-/* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
+/* --- LAYOUT PRINCIPALE (DESKTOP) --- */
 .layout-wrapper {
   display: flex;
   max-width: 1000px;
-  margin: 40px auto; /* Aumentato il margine superiore e inferiore */
+  margin: 40px auto; /* Margine superiore ripristinato */
   padding: 0 1rem;
   box-sizing: border-box;
-  align-items: flex-start; /* Assicura che partano dall'alto correttamente */
+  align-items: flex-start;
 }
 
-.layout-wrapper a {
-  color: rgb(255, 166, 1) !important;    /*green*/
-}
-.layout-wrapper a:hover {
-  color: rgb(255, 123, 0) !important;    /*darkgreen*/
-}
-
-/* Colonna sinistra: header */
 .sidebar {
   display: flex;
-  flex: 1; /* 1 parte su 3 */
-  padding-right: 1rem;
-  /*    */
+  flex: 1;
   flex-direction: column;
-  justify-content: space-between;
-  /* altezza fissa? */
-}
-/* Colori dei link */
-.sidebar a {
-  color: rgb(255, 166, 1) !important;
-}
-.sidebar a:hover {
-  color: rgb(255, 123, 0) !important;
+  padding-right: 2rem;
+  min-height: 500px; /* Aiuta a tenere il footer separato su desktop */
 }
 
-
-/* Colonna destra: contenuti */
 .content {
-  flex: 2; /* 2 parti su 3 */
-}
-/* Colori dei link */
-.content a {
-  color: rgb(255, 166, 1) !important;
-}
-.content a:hover {
-  color: rgb(255, 123, 0) !important;
+  flex: 2;
 }
 
+/* --- LOGO / IMMAGINE SIDEBAR --- */
+.sidebar img, header img {
+  max-width: 250px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1.5rem;
+}
 
-/* footer */
+/* --- FOOTER (DESKTOP) --- */
 .sidebar footer {
-  align-self: stretch;     /* si allunga automaticamente */
-  margin-top: auto;  /* Questo spinge il footer in basso */
-  /*background-color: #f2f2f2; /* o trasparente, se preferisci */
-  padding: 1rem 0;
+  margin-top: auto; /* Spinge il footer in basso nella sidebar su desktop */
+  padding: 2rem 0;
   text-align: left;
-  box-sizing: border-box;
+  border-top: 1px solid #eeeeee;
 }
-/* Colori dei link */
-.sidebar footer a {
+
+/* --- COLORI LINK E STILI --- */
+.layout-wrapper a, .sidebar a, .content a, .sidebar footer a {
   color: rgb(255, 166, 1) !important;
+  text-decoration: none;
 }
-.sidebar footer a:hover {
+
+.layout-wrapper a:hover, .sidebar a:hover, .content a:hover, .sidebar footer a:hover {
   color: rgb(255, 123, 0) !important;
 }
 
+a.orderedlist:link, a.orderedlist:visited { color: rgb(255, 166, 1) !important; }
+a.orderedlist:hover, a.orderedlist:active { color: rgb(255, 123, 0) !important; }
 
-/* Sto targettando ESATTAMENTE il link con classe orderedlist */
-a.orderedlist:link,
-a.orderedlist:visited {
-  color: rgb(255, 166, 1) !important;
-}
-a.orderedlist:hover,
-a.orderedlist:active {
-  color: rgb(255, 123, 0) !important;
-}
-
-
-
-
-/* Layout responsive per schermi piccoli */
-/* Questi tre pezzi rendono la versione mobile identica a quella desktop (l'ho usarta perché avevo problemi con il footer) */
-/*@media (max-width: 768px) {
-  body, html {
-    height: auto;
-  }
-  main {
-    min-height: 100vh;
-    padding-bottom: 100px; /* spazio per il footer */
-  /*}
-  footer {
-    position: relative !important;
-    bottom: auto !important;
-  }
-}
-/* Questi tre pezzi rendono la versione mobile in colonna anziché come il desktop, il problema che posiziona male il footer */
-/*@media (max-width: 768px) {
-  .layout-wrapper {
-    flex-direction: column; /* da righe a colonne */
-/*    padding: 0.5rem;
-  }
-  .sidebar {
-    padding-right: 0; /* rimuove spazio laterale */
-/*    margin-bottom: 1rem; /* spazio sotto la sidebar */
-/*  }
-  .content {
-    flex: unset;
-  }
-}
-*/
-@media (max-width: 768px) {
-  .layout-wrapper {
-    flex-direction: column; /* Impila gli elementi verticalmente */
-  }
-
-  .sidebar {
-    padding-right: 0;
-    margin-bottom: 2rem;
-    display: block; /* Toglie il flex interno che blocca il footer */
-    text-align: center;
-  }
-
-  .content {
-    width: 100%;
-  }
-
-  /* Spinge il footer alla fine del flusso della pagina */
-  .sidebar footer {
-    position: relative;
-    margin-top: 4rem; /* Crea spazio dopo la fine dei post */
-    text-align: center;
-    border-top: 1px solid #eee; /* Separatore opzionale */
-    padding-top: 1rem;
-  }
-}
-
-
-/* Questa parte mi serve per aggiustare lo spazio tra le righe degli itemize */
-/* Rimuove spazio extra tra liste annidate */
-ul ul {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-/* Rimuove margine in basso dall’ultimo elemento */
-ul li:last-child {
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-/* Rimuove margine tra due sezioni successive */
-ul + ul,
-ul + p {
-  margin-top: 0;
-}
-
-@media (max-width: 768px) {
-  .notes-list li {
-    flex-direction: column !important;
-    align-items: flex-start !important;
-    margin-left: 10px; /* Riduci l'indentazione su schermi piccoli */
-  }
-
-  .notes-list .date {
-    margin-top: 0.2rem;
-    white-space: normal; /* Permette alla data di andare a capo se il titolo è lungo */
-  }
-  
-  /* Evita che link lunghi rompano il layout */
-  a {
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-  }
-}
-
-
-
-/* Parte per rendere incolonnate le varie parti delle pagine (vedi colonne titoli e last update nella pagina Lecture notes) */
+/* --- LISTE E SPAZIATURA --- */
 .notes-list {
   list-style: none;
   padding: 0;
@@ -207,32 +68,70 @@ ul + p {
 .notes-list li {
   display: flex;
   justify-content: space-between;
-  margin: 0.3em 0;
-  list-style-type: none; /* Rimuove il pallino se non lo vuoi */
-  margin-left: 30px;      /* Regola il valore per l'indentazione */
-  padding-left: 0;
-}
-
-.notes-list .title {
-  color: rgb(255, 166, 1);
-  font-weight: 500;
+  margin: 0.5em 0 0.5em 30px;
 }
 
 .notes-list .date {
-  color: rgba(128, 128, 128, 0.763);
+  color: rgba(128, 128, 128, 0.76);
   font-size: 0.9em;
   white-space: nowrap;
 }
 
-/* Regole responsive per schermi stretti (sempre dei titoli e date incolonnate) */
+ul ul, ul li:last-child { margin-bottom: 0; padding-bottom: 0; }
+ul + ul, ul + p { margin-top: 0; }
+
+/* --- VERSIONE MOBILE E SCHERMI RISTRETTI --- */
 @media (max-width: 768px) {
+  .layout-wrapper {
+    flex-direction: column;
+    margin-top: 20px;
+  }
+
+  /* Riorganizzazione ordine: Sidebar(1) -> Content(2) -> Footer(3) */
+  .sidebar {
+    display: flex;
+    flex-direction: column;
+    padding-right: 0;
+    text-align: center;
+    order: 1;
+    min-height: auto;
+  }
+
+  .content {
+    width: 100%;
+    order: 2;
+    margin-top: 2rem;
+  }
+
+  .sidebar footer {
+    order: 3;
+    text-align: center;
+    margin-top: 3rem;
+    padding: 1.5rem 0;
+    width: 100%;
+  }
+
+  /* Immagine piccola su mobile */
+  .sidebar img, header img {
+    max-width: 120px !important;
+    margin: 0 auto 1rem auto;
+  }
+
+  /* Liste su mobile */
   .notes-list li {
-    flex-direction: column !important;  /* forza il layout a colonna */
-    align-items: flex-start !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    margin-left: 0;
+    text-align: center;
   }
 
   .notes-list .date {
-    margin-left: 0 !important;
-    margin-top: 0.3em;
+    margin-top: 0.2rem;
+    white-space: normal;
+  }
+
+  a {
+    word-wrap: break-word;
+    overflow-wrap: break-word;
   }
 }
