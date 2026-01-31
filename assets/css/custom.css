@@ -113,7 +113,7 @@ ul + ul, ul + p { margin-top: 0; }
 
   /* Immagine piccola su mobile */
   .sidebar img, header img {
-    max-width: 120px !important;
+    max-width: 150px !important;
     margin: 0 auto 1rem auto;
   }
 
