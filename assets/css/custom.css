@@ -5,13 +5,30 @@ html, body {
   padding: 0;
 }
 
+/* Selettore tipico per il logo nel tema Minimal */
+.sidebar img, 
+header img {
+  max-width: 250px; /* Limite massimo su desktop */
+  width: 100%;      /* Si adatta se il contenitore è più piccolo */
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .sidebar img, 
+  header img {
+    max-width: 180px; /* Più piccolo a metà schermo/mobile */
+    margin: 0 auto 1rem auto; /* Centrato orizzontalmente */
+  }
+}
+
 /* Modifico l'impostazione della pagina; la sto dividendo in 2 (con il footer) */
 .layout-wrapper {
   display: flex;
-  width: 100%;
   max-width: 1000px;
-  margin: 2rem auto; /* Aumentato il margine superiore e inferiore */
-  padding: 1rem;
+  margin: 40px auto; /* Aumentato il margine superiore e inferiore */
+  padding: 0 1rem;
   box-sizing: border-box;
   align-items: flex-start; /* Assicura che partano dall'alto correttamente */
 }
@@ -118,30 +135,27 @@ a.orderedlist:active {
 */
 @media (max-width: 768px) {
   .layout-wrapper {
-    flex-direction: column; 
-    margin-top: 1rem;
+    flex-direction: column; /* Impila gli elementi verticalmente */
   }
 
   .sidebar {
     padding-right: 0;
-    margin-bottom: 0; /* Rimuoviamo il margine per unire visivamente */
-    flex: none;
-    width: 100%;
-    text-align: center;
-  }
-
-  /* Spostiamo il footer della sidebar dopo il contenuto */
-  .sidebar footer {
-    order: 3; /* Se usi flex sul wrapper principale, questo lo sposta in fondo */
-    margin-top: 2rem;
-    padding: 2rem 0;
-    border-top: 1px solid #eee; /* Opzionale: un separatore visivo */
+    margin-bottom: 2rem;
+    display: block; /* Toglie il flex interno che blocca il footer */
     text-align: center;
   }
 
   .content {
-    order: 2; /* Il contenuto viene dopo l'header della sidebar */
     width: 100%;
+  }
+
+  /* Spinge il footer alla fine del flusso della pagina */
+  .sidebar footer {
+    position: relative;
+    margin-top: 4rem; /* Crea spazio dopo la fine dei post */
+    text-align: center;
+    border-top: 1px solid #eee; /* Separatore opzionale */
+    padding-top: 1rem;
   }
 }
 
