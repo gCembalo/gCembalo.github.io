@@ -72,6 +72,29 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     </span>
     <span class="date">(last update: 20/01/2026)</span>
   </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/AQFT.pdf">Advanced Quantum Field Theory (it)</a>
+    </span>
+    <span class="date">(working on it) (last update: --/--/----)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/FIF.pdf">Phenomenology of Foundamental Interaction (it)</a>
+    </span>
+    <span class="date">(working on it) (last update: --/--/----)</span>
+  </li>
+</ul>
+
+### Particle Physics
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/P1.pdf">Elementary Particle 1 (it)</a>
+    </span>
+    <span class="date">(working on it) (last update: --/--/----)</span>
+  </li>
 </ul>
 
 ### Mathematical Methods for the Physics
@@ -98,7 +121,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/RG.pdf">General Relativity (it)</a>
     </span>
-    <span class="date">(last update: 17/08/2025)</span>
+    <span class="date">(working on it) (last update: 17/08/2025)</span>
   </li>
   <li>
     <span class="title">
@@ -127,7 +150,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/CM.pdf">Condensed Matter Physics (it)</a>
     </span>
-    <span class="date">(last update: 04/09/2025)</span>
+    <span class="date">(working on it) (last update: 04/09/2025)</span>
   </li>
 </ul>
 
