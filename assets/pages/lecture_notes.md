@@ -64,7 +64,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/FQFT.pdf">Foundations of Quantum Field Theory (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 23/01/2026)</span>
+    <span class="date">(last update: 13/03/2026)</span>
   </li>
   <li>
     <span class="title">
