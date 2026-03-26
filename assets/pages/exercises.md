@@ -34,6 +34,12 @@ This page contains a collection of all materials related to exercises and worked
     </span>
     <span class="date"></span>
   </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/exercises/FIF/FIF_DecadimentoMuFermi.pdf">Phenomenology of Foundamental Interaction, muon decay (Fermi theory) (it)</a>
+    </span>
+    <span class="date"></span>
+  </li>
 </ul>
 
 ### Statistical Mechanics
