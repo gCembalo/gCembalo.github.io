@@ -36,6 +36,12 @@ This page contains a collection of all materials related to exercises and worked
   </li>
   <li>
     <span class="title">
+      <a href="/assets/pdf/exercises/AQFT/AQFT_Overview.pdf">Advanced QFT, Some exercises (eng)</a>
+    </span>
+    <span class="date"></span>
+  </li>
+  <li>
+    <span class="title">
       <a href="/assets/pdf/exercises/FIF/FIF_DecadimentoMuFermi.pdf">Phenomenology of Foundamental Interaction, muon decay (Fermi theory) (it)</a>
     </span>
     <span class="date"></span>
@@ -48,6 +54,17 @@ This page contains a collection of all materials related to exercises and worked
   <li>
     <span class="title">
       <a href="/assets/pdf/exercises/MS/SomeCalc.pdf">Statistical Mechanics, Some calculation (it)</a>
+    </span>
+    <span class="date"></span>
+  </li>
+</ul>
+
+### Elementary particle
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/exercises/P1/P1_Exercises.pdf">Elementary particle 1, Exercises (it)</a>
     </span>
     <span class="date"></span>
   </li>
