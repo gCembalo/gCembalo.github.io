@@ -36,7 +36,7 @@ This page contains a collection of all materials related to exercises and worked
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/exercises/AQFT/AQFT_Overview.pdf">Advanced QFT, Some exercises (eng)</a>
+      <a href="/assets/pdf/exercises/AQFT/AQFT_Overview.pdf">Advanced QFT, Overview (eng)</a>
     </span>
     <span class="date"></span>
   </li>
