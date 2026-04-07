@@ -64,7 +64,7 @@ This page contains a collection of all materials related to exercises and worked
 <ul class="notes-list">
   <li>
     <span class="title">
-      <a href="/assets/pdf/exercises/P1/P1_Exercises.pdf">Elementary particle 1, Exercises (it)</a>
+      <a href="/assets/pages/exercises/P1.html">Elementary particle 1, Exercises (it)</a>
     </span>
     <span class="date"></span>
   </li>
