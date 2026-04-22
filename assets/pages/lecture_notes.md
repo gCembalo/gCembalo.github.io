@@ -74,13 +74,13 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="LoadingPage.html">Advanced Quantum Field Theory (it)</a>
+      <a href="/LoadingPage.html">Advanced Quantum Field Theory (it)</a>
     </span>
     <span class="date">(working on it) (last update: --/--/----)</span>
   </li>
   <li>
     <span class="title">
-      <a href="LoadingPage.html">Phenomenology of Foundamental Interaction (it)</a>
+      <a href="/LoadingPage.html">Phenomenology of Foundamental Interaction (it)</a>
     </span>
     <span class="date">(working on it) (last update: --/--/----)</span>
   </li>
@@ -91,7 +91,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
 <ul class="notes-list">
   <li>
     <span class="title">
-      <a href="LoadingPage.html">Elementary Particle 1 (it)</a>
+      <a href="/LoadingPage.html">Elementary Particle 1 (it)</a>
     </span>
     <span class="date">(working on it) (last update: --/--/----)</span>
   </li>
@@ -125,7 +125,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="LoadingPage.html">Cosmology (it)</a>
+      <a href="/LoadingPage.html">Cosmology (it)</a>
     </span>
     <span class="date">(working on it) (last update: --/--/2025)</span>
   </li>
