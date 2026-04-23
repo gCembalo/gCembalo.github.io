@@ -148,6 +148,12 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
+      <a href="/assets/pdf/lecture_notes/MS_RG.pdf">Statistical Mechanics - Renormalization group (it)</a>
+    </span>
+    <span class="date">(last update: 23/04/2026)</span>
+  </li>
+  <li>
+    <span class="title">
       <a href="/assets/pdf/lecture_notes/CM.pdf">Condensed Matter Physics (it)</a>
     </span>
     <span class="date">(working on it) (last update: 04/09/2025)</span>
