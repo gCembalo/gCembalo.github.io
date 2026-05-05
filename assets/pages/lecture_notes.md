@@ -91,9 +91,9 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
 <ul class="notes-list">
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Elementary Particle 1 (it)</a>
+      <a href="/assets/pdf/lecture_notes/P1.pdf">Elementary Particle 1 (it)</a>
     </span>
-    <span class="date">(working on it) (last update: --/--/----)</span>
+    <span class="date">(working on it) (last update: 05/05/2026)</span>
   </li>
 </ul>
 
