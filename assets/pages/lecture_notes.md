@@ -160,6 +160,17 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
 </ul>
 
+### Classical Physics
+
+<ul class="notes-list">
+  <li>
+    <span class="title">
+      <a href="/LoadingPage.html">Classical Physics (en)</a>
+    </span>
+    <span class="date">(working on it) (last update: --/--/2026)</span>
+  </li>
+</ul>
+
 ### Programming (ish)
 
 <ul class="notes-list">
