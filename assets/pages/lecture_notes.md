@@ -11,7 +11,7 @@ title: Lecture Notes
 
 <hr>
 
-I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other [handwritten](/assets/pages/handNotes.html). I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template. <br>
+I collect in this Post all my lectures notes that I consider valid to share. There are some of them written in LaTeX, but other [handwritten](/assets/pages/handNotes.html). I refer to Gems, speaking about notes that are part of a broader field, but which I prefer to separate for better readability. Following you can find my LaTeX template, but [here](/assets/pages/personal_project.html) you can find others. <br>
 
 <ul class="notes-list">
   <li>
@@ -74,9 +74,27 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Advanced Quantum Field Theory (it)</a>
+      <span style="color: rgba(128, 128, 128, 0.76)">The difference between the raw notes and the final version is that I added some content and context to the latter.</span>
+    </span>
+    <span class="date"></span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/AQFT_raw.pdf">(raw) Advanced Quantum Field Theory (en)</a>
+    </span>
+    <span class="date">(last update: 19/05/2026)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/LoadingPage.html">Advanced Quantum Field Theory (en)</a>
     </span>
     <span class="date">(working on it) (last update: --/--/----)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/LoadingPage.html">Advanced Quantum Field Theory (Exam Project)</a>
+    </span>
+    <span class="date">(GitHub Repository)</span>
   </li>
   <li>
     <span class="title">
