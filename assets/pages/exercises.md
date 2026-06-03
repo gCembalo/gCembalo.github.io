@@ -60,7 +60,7 @@ This page contains a collection of all materials related to exercises and worked
   </li>
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Phenomenology of Foundamental Interaction, Some calculation (en)</a>
+      <a href="/assets/pdf/exercises/FIF/FIF_SomeCalc.pdf">Phenomenology of Foundamental Interaction, Some calculation (en)</a>
     </span>
     <span class="date"></span>
   </li>
