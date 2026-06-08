@@ -98,9 +98,9 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Phenomenology of Foundamental Interaction (it)</a>
+      <a href="/assets/pdf/lecture_notes/FIF.pdf">Phenomenology of Foundamental Interaction (it)</a>
     </span>
-    <span class="date">(working on it) (last update: --/--/----)</span>
+    <span class="date">(last update: 08/06/2026)</span>
   </li>
 </ul>
 
@@ -111,7 +111,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/P1.pdf">Elementary Particle 1 (it)</a>
     </span>
-    <span class="date">(working on it) (last update: 05/05/2026)</span>
+    <span class="date">(last update: 05/05/2026)</span>
   </li>
 </ul>
 
