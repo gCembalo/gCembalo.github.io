@@ -100,7 +100,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/FIF.pdf">Phenomenology of Foundamental Interaction (it)</a>
     </span>
-    <span class="date">(last update: 08/06/2026)</span>
+    <span class="date">(last update: 23/06/2026)</span>
   </li>
 </ul>
 
