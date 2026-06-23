@@ -42,25 +42,7 @@ This page contains a collection of all materials related to exercises and worked
   </li>
   <li>
     <span class="title">
-      <a href="https://github.com/gCembalo/Phenomenology_notebook.git">Phenomenology of Foundamental Interaction, Mathematica notebook (en)</a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/exercises/FIF/FIF_DecadimentoMuFermi.pdf">Phenomenology of Foundamental Interaction, muon decay (Fermi theory) (it)</a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/LoadingPage.html">Phenomenology of Foundamental Interaction, muon decay (SM) (it)</a>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/exercises/FIF/FIF_SomeCalc.pdf">Phenomenology of Foundamental Interaction, Some calculation (en)</a>
+      <a href="/assets/pages/exercises/FIF.html">Phenomenology of Foundamental Interaction, Some calculation (it)</a>
     </span>
     <span class="date"></span>
   </li>
