@@ -80,7 +80,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/AQFT_MBrepresentation">Advanced Quantum Field Theory - Different integral parametrizations: Baikov’s method and Mellin-Barnes representation (en)</a>
+      <a href="/assets/pdf/lecture_notes/AQFT_MBrepresentation.pdf">Advanced Quantum Field Theory - Different integral parametrizations: Baikov’s method and Mellin-Barnes representation (en)</a>
     </span>
     <span class="date">(last update: 26/05/2026)</span>
   </li>
