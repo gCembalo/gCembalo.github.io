@@ -74,21 +74,15 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <span style="color: rgba(128, 128, 128, 0.76)">The difference between the raw notes and the final version is that I added some content and context to the latter.</span>
-    </span>
-    <span class="date"></span>
-  </li>
-  <li>
-    <span class="title">
-      <a href="/assets/pdf/lecture_notes/AQFT_raw.pdf">(raw) Advanced Quantum Field Theory (en)</a>
+      <a href="/assets/pdf/lecture_notes/AQFT_raw.pdf">Advanced Quantum Field Theory (en)</a>
     </span>
     <span class="date">(last update: 19/05/2026)</span>
   </li>
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Advanced Quantum Field Theory (en)</a>
+      <a href="/assets/pdf/lecture_notes/AQFT_MBrepresentation">Advanced Quantum Field Theory - Different integral parametrizations: Baikov’s method and Mellin-Barnes representation (en)</a>
     </span>
-    <span class="date">(working on it) (last update: --/--/----)</span>
+    <span class="date">(last update: 26/05/2026)</span>
   </li>
   <li>
     <span class="title">
