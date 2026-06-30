@@ -74,7 +74,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/AQFT_raw.pdf">Advanced Quantum Field Theory (en)</a>
+      <a href="/assets/pdf/lecture_notes/AQFT.pdf">Advanced Quantum Field Theory (en)</a>
     </span>
     <span class="date">(last update: 19/05/2026)</span>
   </li>
