@@ -80,15 +80,21 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/AQFT_MBrepresentation.pdf">Advanced Quantum Field Theory - Different integral parametrizations: Baikov’s method and Mellin-Barnes representation (en)</a>
+      <a href="/assets/pdf/lecture_notes/AQFT_presentation.pdf">Advanced Quantum Field Theory (Exam Project) - Ward-Takahashi identity in QED and sQED (en)</a>
     </span>
-    <span class="date">(last update: 26/05/2026)</span>
+    <span class="date">(last update: 08/07/2026)</span>
   </li>
   <li>
     <span class="title">
-      <a href="/LoadingPage.html">Advanced Quantum Field Theory (Exam Project)</a>
+      <a href="https://github.com/gCembalo/AQFT_Project.git">Advanced Quantum Field Theory (Exam Project)</a>
     </span>
     <span class="date">(GitHub Repository)</span>
+  </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/AQFT_MBrepresentation.pdf">Advanced Quantum Field Theory - Baikov’s method and Mellin-Barnes representation (en)</a>
+    </span>
+    <span class="date">(last update: 26/05/2026)</span>
   </li>
   <li>
     <span class="title">
