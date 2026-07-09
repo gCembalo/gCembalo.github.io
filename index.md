@@ -23,6 +23,8 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 ### [Some interesting things](/assets/pages/readings.html)
 
+![Struttura del Sito](assets/repo-structure.svg)
+
 <hr>
 
 #### [Some inspiration](/assets/pages/inspiration.html)

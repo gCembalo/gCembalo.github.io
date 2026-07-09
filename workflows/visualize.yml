@@ -1,0 +1,19 @@
+name: Generate Repo Architecture
+
+on:
+  push:
+    branches:
+      - main # o master, a seconda del tuo branch principale
+
+jobs:
+  visualize:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Match Architecture
+        uses: github/repo-visualizer@v1.1.1
+        with:
+          output_file: "assets/repo-structure.svg" # Salva il grafico qui
+          excluded_paths: ".github,README.md" # Ignora le cartelle di servizio
