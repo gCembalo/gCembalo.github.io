@@ -3,7 +3,7 @@ name: Generate Repo Architecture
 on:
   push:
     branches:
-      - main # o master, a seconda del branch principale
+      - main # cambia in master se il tuo branch principale si chiama master
 
 jobs:
   visualize:
@@ -15,5 +15,13 @@ jobs:
       - name: Match Architecture
         uses: github/repo-visualizer@v1.1.1
         with:
-          output_file: "../assets/repo-structure.svg" # Salva il grafico qui
-          excluded_paths: ".github,README.md" # Ignora le cartelle di servizio
+          output_file: "repo-structure.svg" # Salviamo nella root per semplicità
+          excluded_paths: ".github,README.md"
+
+      - name: Commit and Push SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add repo-structure.svg
+          git commit -m "Update repo structure diagram [skip ci]" || exit 0
+          git push
