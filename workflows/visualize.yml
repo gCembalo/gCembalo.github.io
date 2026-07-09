@@ -15,5 +15,5 @@ jobs:
       - name: Match Architecture
         uses: github/repo-visualizer@v1.1.1
         with:
-          output_file: "assets/repo-structure.svg" # Salva il grafico qui
+          output_file: "../assets/repo-structure.svg" # Salva il grafico qui
           excluded_paths: ".github,README.md" # Ignora le cartelle di servizio
