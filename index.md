@@ -21,7 +21,7 @@ On this site, I share notes, thoughts, and projects related to physics, technolo
 
 ### [Personal Project](assets/pages/personal_project.html)
 
-### [Some interesting things](/assets/pages/readings.html)s
+### [Some interesting things](/assets/pages/readings.html)
 
 <hr>
 
