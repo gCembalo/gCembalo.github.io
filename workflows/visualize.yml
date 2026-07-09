@@ -3,7 +3,7 @@ name: Generate Repo Architecture
 on:
   push:
     branches:
-      - main # o master, a seconda del tuo branch principale
+      - main # o master, a seconda del branch principale
 
 jobs:
   visualize:
