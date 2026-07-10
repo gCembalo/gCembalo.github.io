@@ -113,6 +113,12 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     </span>
     <span class="date">(last update: 05/05/2026)</span>
   </li>
+  <li>
+    <span class="title">
+      <a href="/assets/pdf/lecture_notes/GRASpa2026Presentation.pdf">GRASpa2026 Summer School presentation (en)</a>
+    </span>
+    <span class="date">(last update: 10/07/2026)</span>
+  </li>
 </ul>
 
 ### Mathematical Methods for the Physics
