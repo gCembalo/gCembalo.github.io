@@ -111,11 +111,11 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     <span class="title">
       <a href="/assets/pdf/lecture_notes/P1.pdf">Elementary Particle 1 (it)</a>
     </span>
-    <span class="date">(last update: 05/05/2026)</span>
+    <span class="date">(working on it) (last update: 05/05/2026)</span>
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/GRASpa2026Presentation.pdf">GRASpa2026 Summer School presentation (en)</a>
+      <a href="/assets/pdf/lecture_notes/GraSPA2026Presentation.pdf">GraSPA2026 Summer School presentation (en)</a>
     </span>
     <span class="date">(last update: 10/07/2026)</span>
   </li>
