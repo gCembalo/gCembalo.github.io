@@ -119,7 +119,7 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
     </span>
     <span class="date">(last update: 10/07/2026)</span>
   </li>
-</ul>
+</ul> 
 
 ### Mathematical Methods for the Physics
 
