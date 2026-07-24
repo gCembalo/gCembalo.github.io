@@ -115,9 +115,9 @@ You can find [here](/assets/pages/exercises.html) a collection of all materials 
   </li>
   <li>
     <span class="title">
-      <a href="/assets/pdf/lecture_notes/GraSPA2026Presentation.pdf">GraSPA2026 Summer School presentation (en)</a>
+      <a href="/assets/pdf/lecture_notes/Cembalo_GraSPA2026Presentation.pdf">GraSPA2026 Summer School presentation (en)</a>
     </span>
-    <span class="date">(last update: 10/07/2026)</span>
+    <span class="date">(last update: 21/07/2026)</span>
   </li>
 </ul> 
 
