@@ -1,11 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello there, I'm Gabriele!"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## What You’ll Find Here
+
+![DiracEquation](/img/Dirac2.png){: .align-right width=300px}
+On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy.
+
+
+### Different places
+
+Da scrivere.
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
