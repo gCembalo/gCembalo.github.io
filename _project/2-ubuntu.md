@@ -2,5 +2,5 @@
 title: "Ubuntu on Mac"
 collection: project
 excerpt: 'In the title above you can find the GitHub repository, where I will show how to install a VirtualMachine with Linux Ubuntu on it on your Mac. We are going to use UTM to create the VirtualMachine. This guide will not be a technical one, but for some informatics could be a little be naif; I will be very essential and I will explain just the basics to install Ubuntu on your M1/M2/M3/M4 Mac. If you have a Intel Mac you can find some usefull guide online to install a Linux Virtual Machine with your processor.'
-url: 'https://github.com/gCembalo/How_to_install_Ubuntu_on_mac.git'
+external_url: 'https://github.com/gCembalo/How_to_install_Ubuntu_on_mac.git'
 ---
