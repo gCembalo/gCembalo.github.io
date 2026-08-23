@@ -1,0 +1,25 @@
+---
+layout: archive
+title: "Lecture Notes"
+permalink: /notes/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I collect in this page all my Lecture notes.</p>
+
+<h2>Why this page exists</h2>
+
+<p>In the introduction to Physics from Symmetry, Jakob Schwichtenberg writes: “A good teacher is someone who helps you to learn in a few weeks what took him years to understand.”
+
+Unfortunately, throughout my academic journey, I haven't always met professors who fit this description. Too often, finding decent study material required far more effort than it should have. I truly believe that when we aren't provided with the best conditions to learn, peer-to-peer collaboration becomes our greatest asset.
+
+That is exactly why I created this page. It is a space where I collect not only my lecture notes—which currently cover a couple of Bachelor's courses and all my Theoretical Physics Master's exams—but also useful documents and templates that might come in handy during a physics student's university career.
+
+I hope you find this material helpful!</p>
+
+
+{% for post in site.notes reversed %}
+  {% include archive-single.html %}
+{% endfor %}

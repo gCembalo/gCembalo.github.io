@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy. ![DiracEquation](/img/Dirac2.png){: .align-right width="300px"}
+![DiracEquation](/img/Dirac2.png){: .align-right width="300px"}On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy.
 
 
 ### Different places
