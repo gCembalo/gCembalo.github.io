@@ -1,3 +1,6 @@
+---
+permalink: /404.html
+---
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -30,27 +33,25 @@
     a:hover {
       text-decoration: underline;
     }
-    .emoji {
-      font-size: 3em;
-    }
     .container {
       text-align: center;
-      margin-top: 100px;
+      margin-top: 60px;
     }
-    .image-404 {
+    .loading-bar {
       max-width: 450px;
       width: 100%;
       height: auto;
-      margin-bottom: 20px;
+      display: block;
+      margin: 0 auto 20px auto;
     }
   </style>
 </head>
 <body>
   <div class="container">
-    <img src="/img/LoadingBar.jpg" alt="404" class="LoadingBar" style="width: 100%; height: auto; display: block; margin: 0 auto;">
+    <img src="{{ '/img/LoadingBar.jpg' | relative_url }}" alt="Work in progress" class="loading-bar">
     <h1>Oops! This page is still in the oven.</h1>
     <p>or more likely, I just haven't finished writing the LaTeX code yet.</p>
-    <p>This page will be available as soon as I resolve yet another compilation conflict. In the meantime, you'd better <a href="/">come back to home</a> and wait for the cake to bake.</p>
+    <p>This page will be available as soon as I resolve yet another compilation conflict. In the meantime, you'd better <a href="{{ '/' | relative_url }}">come back to home</a> and wait for the cake to bake.</p>
   </div>
 </body>
 </html>
