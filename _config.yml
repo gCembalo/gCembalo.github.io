@@ -23,7 +23,7 @@ repository               : "gcembalo/gcembalo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../img/Copenaghen.png"
+  avatar           : "Copenaghen.png"
   name             : "Gabriele Cembalo"
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Physics student" # "Short biography for the left-hand sidebar"
