@@ -56,7 +56,7 @@
 
 {% if post.last_modified_at %}
   <p class="page__date-modified">
-    <strong><i class="fa fa-fw fa-sync" aria-hidden="true"></i> Last update:</strong> 
+    <strong>Last update:</strong> 
     <time datetime="{{ post.last_modified_at | date_to_xmlschema }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time>
   </p>
 {% endif %}
