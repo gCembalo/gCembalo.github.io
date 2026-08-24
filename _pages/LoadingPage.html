@@ -1,29 +1,52 @@
 ---
-permalink: /404.html
+layout: null
+permalink: /LoadingPage.html
 ---
 <!DOCTYPE html>
 <html lang="it">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Work in progress</title>
   <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
-      max-width: 800px;
-      margin: 60px auto;
-      padding: 0 20px;
-      color: #24292e;
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    html, body {
+      width: 100%;
+      height: 100vh;
       background-color: #ffffff;
-      line-height: 1.6;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      color: #24292e;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      overflow: hidden;
+    }
+    .container {
+      text-align: center;
+      max-width: 650px;
+      padding: 20px;
+    }
+    .loading-bar {
+      max-width: 380px;
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto 25px auto;
     }
     h1 {
-      font-size: 2.5em;
-      margin-bottom: 0.5em;
+      font-size: 2em;
+      margin-bottom: 15px;
+      font-weight: 700;
     }
     p {
-      font-size: 1.2em;
-      margin: 1em 0;
+      font-size: 1.1em;
+      margin: 12px 0;
+      color: #4a5568;
+      line-height: 1.5;
     }
     a {
       color: #0366d6;
@@ -33,22 +56,11 @@ permalink: /404.html
     a:hover {
       text-decoration: underline;
     }
-    .container {
-      text-align: center;
-      margin-top: 60px;
-    }
-    .loading-bar {
-      max-width: 450px;
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto 20px auto;
-    }
   </style>
 </head>
 <body>
   <div class="container">
-    <img src="{{ '/img/LoadingBar.jpg' | relative_url }}" alt="Work in progress" class="loading-bar">
+    <img src="{{ '/images/LoadingBar.jpg' | relative_url }}" alt="Loading" class="loading-bar">
     <h1>Oops! This page is still in the oven.</h1>
     <p>or more likely, I just haven't finished writing the LaTeX code yet.</p>
     <p>This page will be available as soon as I resolve yet another compilation conflict. In the meantime, you'd better <a href="{{ '/' | relative_url }}">come back to home</a> and wait for the cake to bake.</p>

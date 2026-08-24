@@ -3,5 +3,5 @@ title: "Advanced Quantum Field Theory"
 collection: notes
 last_modified_at: 2024-05-10
 excerpt: 'In the title above you can find the GitHub repository, where I will show how to install a VirtualMachine with Linux Ubuntu on it on your Mac. We are going to use UTM to create the VirtualMachine. This guide will not be a technical one, but for some informatics could be a little be naif; I will be very essential and I will explain just the basics to install Ubuntu on your M1/M2/M3/M4 Mac. If you have a Intel Mac you can find some usefull guide online to install a Linux Virtual Machine with your processor.'
-link: '/pages/LoadingPage.html'
+link: '/LoadingPage.html'
 ---
