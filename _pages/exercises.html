@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Exercises"
+permalink: /exercises/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>I collect in this page all my notes relative to exercises or related to.</p>
+
+
+{% for post in site.notes reversed %}
+  {% include archive-single.html %}
+{% endfor %}
