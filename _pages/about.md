@@ -8,8 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-![DiracEquation](/img/Dirac2.png){: .align-right width="300px"}On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy.
-
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div>
+    On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy.
+  </div>
+  <img src="/img/Dirac2.png" alt="Dirac Equation" style="width: 250px; flex-shrink: 0;">
+</div>
 
 ### Different places
 
