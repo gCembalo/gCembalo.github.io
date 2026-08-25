@@ -61,6 +61,12 @@
   </p>
 {% endif %}
 
+{% if post.lang %}
+  <p class="page__language">
+    <strong>Language:</strong> {{ post.lang | upcase }}
+  </p>
+{% endif %}
+
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
