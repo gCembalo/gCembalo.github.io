@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; gap: 20px;">
+<!--<div style="display: flex; align-items: center; gap: 20px;">
   <div>
-    On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. I hope you’ll find something you enjoy.
+    I'm currently a MSc student in Theoretical Physics at University of Turin. On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. This is not a sponsorship space, and it won't be. I hope you’ll find something you enjoy.
   </div>
   <img src="/img/Dirac2.png" alt="Dirac Equation" style="width: 250px; flex-shrink: 0;">
-</div>
+</div>-->
+
+I'm currently a MSc student in Theoretical Physics at University of Turin. On this site, I share notes, thoughts, and projects related to physics, technology, programming, and other curiosities. It’s a personal space where I mainly collect notes from my BSc and MSc courses in Theoretical Physics, but you’ll also find experiments, ideas, readings, and anything else I find useful or interesting. This is not a sponsorship space, and it won't be. I hope you’ll find something you enjoy.
 
 ### Different places
 
