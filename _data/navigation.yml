@@ -34,6 +34,9 @@ main:
     
   - title: "CV"
     url: /files/cv/cv.pdf
+
+  - title: "About"
+    url: /why/
     
   # - title: "CV"
   #   url: /cv-json/
