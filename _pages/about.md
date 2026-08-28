@@ -20,6 +20,6 @@ I'm currently a MSc student in Theoretical Physics at University of Turin. On th
 Please visit the [about](/why/) section to read why this page exists and which are my purpose. In that link you can also find the disclaimer and licence (if you want to be more bureaucratic) related to my notes. <br>
 
 
-### Different places
+## What you will find here 
 
-Da scrivere.
+As I said, this is my personal space where I share my notes or project related to my University journey. In [lecture notes](/notes/) page you can find all my notes from MSc in *Theoretical Physics* lectures, and something from the BSc in *Physics*. In [exercises](/exercises/) page you cand find some calculation, tutoring or random exercises from some BSc and MSc courses; there is also a section dedicated to the [formulary](/formulary/). In the page [personal project](/project/) you can see some of my experiments and project; there are all my LaTeX template, which was useful, not only for my lecture notes, but for my thesis, beamer presentation and some application to summer school and other. In [cv](/files/cv/cv.pdf) you can find my resume. The last page is called [about](/why/) and it contains all the information related to why I create this page, how I suggest to use it and why I strongly believe that knowledge should be free; have a look at it.
