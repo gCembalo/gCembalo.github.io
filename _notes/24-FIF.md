@@ -1,0 +1,15 @@
+---
+title: "Phenomenology of Fundamental Interaction"
+collection: notes
+last_modified_at: 2026-08-29
+lang: it
+excerpt: >-
+    In questo corso si analizzerà, con un approccio fenomenologico, la costruzione dell Modello Standard delle particelle elementari. Vedremo nella prima parte del corso le interazioni Elettrodeboli. In particolare analizzeremo la teoria di Fermi, guardando nel dettaglio la sua costruzione e, a partire dalle sue criticità insormontabili, capiremo come ci possa guidare ad una teoria di gauge elettrodebole. Parleremo di masse, del meccanismo di Higgs e degli accoppaimenti del bosone di Higgs con le particelle. Per la prima parte del corso sono seguite le note del corso, ma si possono anche consultare le note di Ridolfi e di Barbieri. Anche il Peskin e Schroeder è consigliato.
+    
+    Nella seconda parte del corso studieremo ciò che riguarda le interazioni nucleari forti. In particolare vedremo tutti i fondamenti di Cromodinamica Quantistica (concetto di colore, lagrangiana, running coupling e asymptotic freedom), parleremo di processi di scattering (delle divergenze IR coinvolte), jets adronici, sezioni d'urto differenziali in teoria delle perturbazioni, vedremo in dettaglio il deep inelastic scattering e per concludere analizzeremo la cancellazione delle anomalie nel Modello Standard. Per questa parte di corso le risorse sono più numerose, anche se molto sovrapposte. In particolare si consiglia il Peskin e Schroeder, il testo di Ellis, Stirling e Webber (è reso open access, al link riportato in bibliografia, da Cambridge), le note di Seymour, le note di Nason e quelle di Salam. Per la parte di QCD sono stati anche utilizzati dei notebook di *Mathematica*, consultabili alla [repository GitHub](https://github.com/gCembalo/Phenomenology_notebook.git), ovviamente di proprietà del professore.
+
+    Inoltre, una parte dell'esame orale sarà riguardante la risoluzione di un esercizio. Ho creato una pagina con tutti i conti che ho svolto. Per la parte di interazioni EW gli esercizi possibili sono: decadimento del muone, sia per la teoria di Fermi che per il Modello Standard; conti per la violazione dell'unitarietà della teoria di Fermi (scattering $e^- + \nu_e \to e^- + \nu_e$); numero di neutrini leggeri. Per la parte di QCD può essere chiesto di calcolare uno spazio fasi oppure un contributo ad una sezione d'urto. Non c'è una vera e propria lista di esercizi da guardare, ma un qualsiasi processo tra quelli visti, ad esempio $e^+ e^- \to q\bar{q}$, $q\bar{q}\to q\bar{q}$ oppure $gg\to q\bar{q}$, possono essere delle ampiezze richieste, ma allo stesso modo può essere preso un processo ed essere richiesto di calcolare la misura dello spazio fasi.
+
+    I corsi di Introduzione, Fondamenti e Advanced QFT sono importanti per il corso."
+link: '/files/lecturenotes/FIF.pdf'
+---
