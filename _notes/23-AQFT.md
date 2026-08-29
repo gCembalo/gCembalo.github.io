@@ -6,6 +6,6 @@ lang: eng
 excerpt: >-
     This course should be viewed as the third part of a three-part series on QFT; therefore, certain topics, notions, and concepts will be assumed as prior knowledge. For any review, please refer to the previous course on QFT. This course is a little bit confusing at first sight, but I tried to integrate M. Nebbia's notes from the course *Complementi di Teoria di Campi* (see [for the corresponding chapter](/files/exercises/AQFT/CTC_index.pdf)), taught by Prof.s L. Magnea and G. Passarino. You can see some of the exercises present in the notes in exercises' section.
 
-    I study, for personal purpose, the Mellin-Barnes representation. You can see my notes [here](/files/lecturenotes/AQFT.pdf).
-link: '/files/lecturenotes/AQFT_MBrep.pdf'
+    I study, for personal purpose, the Mellin-Barnes representation. You can see my notes [here](/files/lecturenotes/AQFT_MBrep.pdf).
+link: '/files/lecturenotes/AQFT.pdf'
 ---
