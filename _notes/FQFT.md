@@ -1,6 +1,7 @@
 ---
 title: "Foundation of Quantum Field Theory"
 collection: notes
+category: "Quantum Field Theory"
 last_modified_at: 2026-04-09
 lang: it
 excerpt: >-

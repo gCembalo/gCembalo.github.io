@@ -1,6 +1,7 @@
 ---
 title: "General Relativity"
 collection: notes
+category: "Gravity"
 last_modified_at: 2026-08-27
 lang: it
 excerpt: >-

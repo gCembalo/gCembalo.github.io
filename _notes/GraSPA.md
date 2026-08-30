@@ -1,6 +1,7 @@
 ---
 title: "GraSPA2026 Summer School presentation"
 collection: notes
+category: "Particle Physics"
 last_modified_at: 2026-08-29
 lang: eng
 excerpt: >-

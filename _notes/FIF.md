@@ -1,6 +1,7 @@
 ---
 title: "Phenomenology of Fundamental Interaction"
 collection: notes
+category: "Quantum Field Theory"
 last_modified_at: 2026-06-23
 lang: it
 excerpt: >-
