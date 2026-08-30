@@ -10,6 +10,6 @@ excerpt: >-
     
     Other recommended texts are: O. Nastase, *Introduction to Quantum Field Theory*; L. Alvarez Gaumé, M. A. Vázquez-Mozo, *An Invitation to Quantum Field Theory* (very dense and thorough, so not particularly recommended for exam preparation, but good for a second read); L. Alvarez Gaumé, M. A. Vázquez-Mozo, [*Lectures on Field Theory and the Standard Model: A Symmetry-Oriented Approach*](https://arxiv.org/pdf/2306.08097). <br>
 
-    In the exercises section I have collected some general calculations, a few past exam papers (with likely errors), and all the calculations for the 2-to-2 processes that the professor suggests practicing for the written exam.
+    In the exercises section I have collected some general calculations, a few past exam papers (with likely errors), and all the calculations for the 2-to-2 processes that the professor suggests practicing for the written exam. It might be useful to look at the [complements](/files/lecturenotes/ComplFQFT.pdf) notes.
 link: '/files/lecturenotes/FQFT.pdf'
 ---
