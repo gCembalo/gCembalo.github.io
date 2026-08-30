@@ -18,17 +18,6 @@ author_profile: true
 
 <h2>Notes</h2>
 
-{% assign category_order = "Quantum Mechanics,Quantum Field Theory,Particle Physics,Gravity,Statistical and Condensed Matter Physics,Programming (ish)" | split: "," %}
-
-{% for cat in category_order %}
-  <h2>{{ cat }}</h2>
-  {% for post in site.notes %}
-    {% if post.category == cat %}
-      {% include archive-single.html %}
-    {% endif %}
-  {% endfor %}
-{% endfor %}
-
-<!--{% for post in site.notes %}
+{% for post in site.notes %}
   {% include archive-single.html %}
-{% endfor %}-->
+{% endfor %}
